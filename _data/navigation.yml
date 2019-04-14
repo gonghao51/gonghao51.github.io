@@ -1,7 +1,9 @@
 # Site navigation links
 
-- title:hallo
-  url:/
+- title: Portfolio
+  url: /portfolio/
+  excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
+  image: 300x200.gif
 
 - title:"首页"
   url:/
