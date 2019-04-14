@@ -1,36 +1,34 @@
 # Site navigation links
 
-- title:首页
-  url:/
-  excerpt:
-  image: 300x200.gif
+- title: Home
+  url: /
 
-- title:"新闻"
-  url:/xinwen/
+- title: "新闻"
+  url: /xinwen/
   excerpt:
   image: 
   
-- title:"时评"
-  url:/shiping/
+- title: "时评"
+  url: /shiping/
   excerpt:
   image: 300x200.gif
   
-- title:"故事"
-  url:/gushi/
+- title: "故事"
+  url: /gushi/
   excerpt:
   image: 300x200.gif
   
-- title:"普法"
-  url:/pufa/
+- title: "普法"
+  url: /pufa/
   excerpt:
   image: 300x200.gif
   
-- title:"文艺"
-  url:/wenyi/
+- title: "文艺"
+  url: /wenyi/
   excerpt:
   image: 300x200.gif
   
-- title:"理论"
-  url:/lilun/
+- title: "理论"
+  url: /lilun/
   excerpt:
   image: 300x200.gif
