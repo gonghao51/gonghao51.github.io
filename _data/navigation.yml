@@ -2,21 +2,35 @@
 
 - title: "首页"
   url: /
+  excerpt: 
+  image: 
 
 - title: "新闻"
   url: /xinwen/
+  excerpt: 
+  image: 
   
 - title: "时评"
   url: /shiping/
+  excerpt: 
+  image: 
   
 - title: "故事"
   url: /gushi/
+  excerpt: 
+  image: 
   
 - title: "普法"
   url: /pufa/
+  excerpt: 
+  image: 
   
 - title: "文艺"
   url: /wenyi/
+  excerpt: 
+  image: 
   
 - title: "理论"
   url: /lilun/
+  excerpt: 
+  image: 
