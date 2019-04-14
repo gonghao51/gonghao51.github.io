@@ -3,34 +3,34 @@
 - title:首页
   url:/
   excerpt:
-  image: 
+  image: 300x200.gif
 
 - title:"新闻"
   url:/xinwen/
   excerpt:
-  image: 
+  image: 300x200.gif
   
 - title:"时评"
   url:/shiping/
   excerpt:
-  image: 
+  image: 300x200.gif
   
 - title:"故事"
   url:/gushi/
   excerpt:
-  image: 
+  image: 300x200.gif
   
 - title:"普法"
   url:/pufa/
   excerpt:
-  image: 
+  image: 300x200.gif
   
 - title:"文艺"
   url:/wenyi/
   excerpt:
-  image: 
+  image: 300x200.gif
   
 - title:"理论"
   url:/lilun/
   excerpt:
-  image: 
+  image: 300x200.gif
