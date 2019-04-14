@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "工号51"
+title: ""
 ---
 
 <div class="tiles">
