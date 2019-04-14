@@ -1,10 +1,5 @@
 # Site navigation links
 
-- title: "首页"
-  url: /
-  excerpt: 
-  image: teaser.jpg
-
 - title: "新闻"
   url: /xinwen/
   excerpt: 
