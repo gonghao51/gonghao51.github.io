@@ -3,34 +3,34 @@
 - title: "首页"
   url: /
   excerpt: 
-  image: 
+  image: teaser.jpg
 
 - title: "新闻"
   url: /xinwen/
   excerpt: 
-  image: 
+  image: teaser.jpg
   
 - title: "时评"
   url: /shiping/
   excerpt: 
-  image: 
+  image: teaser.jpg
   
 - title: "故事"
   url: /gushi/
   excerpt: 
-  image: 
+  image: teaser.jpg
   
 - title: "普法"
   url: /pufa/
   excerpt: 
-  image: 
+  image: teaser.jpg
   
 - title: "文艺"
   url: /wenyi/
   excerpt: 
-  image: 
+  image: teaser.jpg
   
 - title: "理论"
   url: /lilun/
   excerpt: 
-  image: 
+  image: teaser.jpg
