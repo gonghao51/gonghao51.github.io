@@ -1,22 +1,22 @@
 # Site navigation links
 
-- title:首页
+- title:"首页"
   url:/
 
-- title:新闻
+- title:"新闻"
   url:/xinwen/
   
-  - title:时评
+  - title:"时评"
   url:/shiping/
   
-  - title:故事
+  - title:"故事"
   url:/gushi/
   
-  - title:普法
+  - title:"普法"
   url:/pufa/
   
-  - title:文艺
+  - title:"文艺"
   url:/wenyi/
   
-  - title:理论
+  - title:"理论"
   url:/lilun/
