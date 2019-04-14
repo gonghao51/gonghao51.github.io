@@ -28,7 +28,7 @@
   right: $gutter;
   display: block;
   width: $button-size * 2;
-  height: $button-size * 2;
+  height: $button-size * 1;
   background: $primary-color;
   outline: 0;
   padding: 0;
@@ -117,7 +117,7 @@
     display: block;
     position: relative;
     padding-bottom: 1em;
-    min-height: 70px;
+    min-height: 30px;
     @include media($small) {
       min-height: 100px;
     }
