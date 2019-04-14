@@ -117,9 +117,9 @@
     display: block;
     position: relative;
     padding-bottom: 1em;
-    min-height: 30px;
+    min-height: 20px;
     @include media($small) {
-      min-height: 30px;
+      min-height: 0px;
     }
   }
   .menu-item {
