@@ -149,7 +149,3 @@ excerpt_separator: <!--more-->
 </div>
 
 **注意：**给老板邮寄辞职信时，在封面上的“内件品名”写明：“ XXX 的辞工书”，并在特快专递上写明自己的有效联系方式。
-
-<div style="text-align:center"><img src="/images2/dagongzhanshi.jpg" width="90%"></div>
-
-<div style="text-align:center"><img src="/images2/jiaxiaobian.jpg" width="90%"></div>
