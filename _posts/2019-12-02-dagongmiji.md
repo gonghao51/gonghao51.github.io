@@ -13,7 +13,7 @@ excerpt_separator: <!--more-->
   
 编者按：很少有工友会喜欢上班——流水线上的工作大同小异，都一样的重复、一样的压抑、一样的没有自由，而且还没有尊严，看不见希望与未来。为了生存和家庭，大家也只好默默承受。不过，还有不到两个月就过年了，不少工友也无心再赚钱，盘算着早点逃离车间，和分别一年的家人团聚，这就需要辞工。<br><br>
 
-工人辞工，老板不批，工人该怎么办呢？ 
+工人辞工，老板不批，工人该怎么办呢？ <br><br>
 
 </div>
 
@@ -72,11 +72,11 @@ excerpt_separator: <!--more-->
 
 </div>
 
-<br><br>
+<br>
 
 <div style="text-align:center"><img src="/images2/cigongbupi6.jpg" width="90%"></div>
 
-<br><br>
+<br>
 
 <div style="width:98%;padding:10px;background-color:lightblue;margin:0;">
 
@@ -87,7 +87,7 @@ excerpt_separator: <!--more-->
 
 </div>
 
-<br><br>
+<br>
 
 <div style="text-align:center"><img src="/images2/cigongbupi7.jpg" width="90%"></div>
 
@@ -153,7 +153,7 @@ excerpt_separator: <!--more-->
 <br><br>
 
 辞职人：
-<br><br>
+<br>
 
 日期：
 <br><br>
