@@ -4,19 +4,18 @@ title: "【打工秘籍】辞工不批，如何走人又拿到工资"
 date: 2019-12-02
 tags: kuaixun
 image:
-  teaser: "/images2/cigongbupi1.jpg"
+  teaser: /images2/cigongbupi1.jpg
 excerpt_separator: <!--more-->
 ---
 
 
 <div style="width:98%;padding:10px;background-color:lightgrey;margin:0;">
   
-编者按：很少有工友会喜欢上班——流水线上的工作大同小异，都一样的重复、一样的压抑、一样的没有自由，而且还没有尊严，看不见希望与未来。为了生存和家庭，大家也只好默默承受。不过，还有不到两个月就过年了，不少工友也无心再赚钱，盘算着早点逃离车间，和分别一年的家人团聚，这就需要辞工。
-
-</div>
+编者按：很少有工友会喜欢上班——流水线上的工作大同小异，都一样的重复、一样的压抑、一样的没有自由，而且还没有尊严，看不见希望与未来。为了生存和家庭，大家也只好默默承受。不过，还有不到两个月就过年了，不少工友也无心再赚钱，盘算着早点逃离车间，和分别一年的家人团聚，这就需要辞工。<br><br>
 
 工人辞工，老板不批，工人该怎么办呢？ 
 
+</div>
 
 <div style="text-align:center"><img src="/images2/cigongbupi1.jpg" width="90%"></div>
 
@@ -73,7 +72,11 @@ excerpt_separator: <!--more-->
 
 </div>
 
+<br><br>
+
 <div style="text-align:center"><img src="/images2/cigongbupi6.jpg" width="90%"></div>
+
+<br><br>
 
 <div style="width:98%;padding:10px;background-color:lightblue;margin:0;">
 
@@ -83,6 +86,8 @@ excerpt_separator: <!--more-->
 人资一看影响很大，只好批准辞职。吴杰觉得滑稽，反而不走了，最终厂方赔偿n+1后把他解雇。
 
 </div>
+
+<br><br>
 
 <div style="text-align:center"><img src="/images2/cigongbupi7.jpg" width="90%"></div>
 
@@ -107,6 +112,8 @@ excerpt_separator: <!--more-->
 小文和工友报了警，并再次拨打劳动局电话。好几个工人被恶意克扣，又团结起来维权，当地人社局担心事情闹大不好收场，只好认真受理了此事。3个工友出示了辞职报告照片，其他人也拿出了劳动合同，以及能间接证明公司违法的录音、微信聊天记录。经过仲裁，小文、男朋友和其他两个工友拿到了被拖欠的工资，1人因为证据不足败诉，后来经过调解拿到了80%的工资（损失旷工罚款700元）。
 
 </div>
+
+<br><br>
 
 <div style="text-align:center"><img src="/images2/cigongbupi8.jpg" width="90%"></div>
 
@@ -137,14 +144,19 @@ excerpt_separator: <!--more-->
 <div style="text-align:center"><strong>辞职信格式</strong></div>
 
 尊敬的公司领导
+<br><br>
 
 本人何洁，员工编号A12345, 2019年3月1日入职贵公司至今。由于工资太低，无法保障我的正常生活。现（2019年11月30日）我正式向公司提出辞职申请，将于2019年12月30日离职。请公司做好交接安排，并在离职后三日结清工资给本人，谢谢！
+<br><br>
 
 特此通知
+<br><br>
 
 辞职人：
+<br><br>
 
 日期：
+<br><br>
 
 </div>
 
