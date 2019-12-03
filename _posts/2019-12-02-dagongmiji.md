@@ -3,11 +3,20 @@ template: post
 title: "【打工秘籍】辞工不批，如何走人又拿到工资"
 date: 2019-12-02
 tags: kuaixun
+image:
+  teaser: "/images2/cigongbupi1.jpg"
 excerpt_separator: <!--more-->
 ---
-**编者按：很少有工友会喜欢上班——流水线上的工作大同小异，都一样的重复、一样的压抑、一样的没有自由，而且还没有尊严，看不见希望与未来。为了生存和家庭，大家也只好默默承受。不过，还有不到两个月就过年了，不少工友也无心再赚钱，盘算着早点逃离车间，和分别一年的家人团聚，这就需要辞工。**
 
-**工人辞工，老板不批，工人该怎么办呢？ **
+
+<div style="width:98%;padding:10px;background-color:grey;margin:0;">
+  
+编者按：很少有工友会喜欢上班——流水线上的工作大同小异，都一样的重复、一样的压抑、一样的没有自由，而且还没有尊严，看不见希望与未来。为了生存和家庭，大家也只好默默承受。不过，还有不到两个月就过年了，不少工友也无心再赚钱，盘算着早点逃离车间，和分别一年的家人团聚，这就需要辞工。
+
+</div>
+
+工人辞工，老板不批，工人该怎么办呢？ 
+
 
 <div style="text-align:center"><img src="/images2/cigongbupi1.jpg" width="90%"></div>
 
@@ -50,9 +59,9 @@ excerpt_separator: <!--more-->
 当然呢，不少厂子依然骄横，一定要执行他们的“黑厂规”——扣钱。很多工友会有“这里扣了，我赶快去其他地方赚回来”的想法，觉得麻烦，不想和厂方纠缠，其实这种忍气吞声的行为助长了老板肆意欺负工人的嚣张气焰；争取辞职没有那么困难，一个工友的成功也会大大增加其他工友的信心——既然你能要到工资，我也可以！
 
 
-<div style="width:95%;padding:3px;border:5px solid green;margin:0;">
+<div style="width:98%;padding:7px;background-color:lightgreen;margin:0;">
 
-<div style="text-align:center">**案例一**</div>
+<div style="text-align:center"><h4>案例一</h4></div>
 
 小双在深圳的一家小厂打工，这个厂一百来人，对待工人很苛刻，发工资还经常拖延。不想被逼疯的小双打算辞工，辞职信递交的一个月内，她不断询问文员进展，都被告知没被批准，缺人赶订单的资本家妄图用900块钱的旷离罚款把她“绑住”。
 
