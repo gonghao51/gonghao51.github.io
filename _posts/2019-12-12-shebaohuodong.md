@@ -4,7 +4,7 @@ title: "【51群活动】什么？公司不缴或者少缴社保，这几招叫�
 date: 2019-12-12
 tags: huodong
 image:
-  teaser: /201912/shebaohuodong1.jpg
+  teaser: /201912/shebaohuodong2.jpg
 excerpt_separator: <!--more-->
 ---
 
@@ -29,7 +29,7 @@ excerpt_separator: <!--more-->
 <div style="text-align:center"><img src="/images/201912/shebaohuodong4.jpg" width="90%"></div><br>
 
 <div style="width:98%;padding:10px;background-color:lightgreen;margin:0;">
-<h3>企业不缴纳社保、职工如何斗争</h3><br>
+<strong>企业不缴纳社保、职工如何斗争</strong><br><br>
 活动时间：周六（12月14日）晚上8点到10点<br>
 活动地点：51工人咨询交流群（扫码加小编要求加入）<br>
 活动内容：知识问答抢红包大赛，劳动法学习<br>
