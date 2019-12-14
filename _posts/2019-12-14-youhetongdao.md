@@ -25,6 +25,7 @@ excerpt_separator: <!--more-->
 <div style="text-align:center"><img src="/images/201912/youhe2.jpg" width="90%"></div>
 
 <strong>作者：</strong>@旅行De慢时光
+
 <strong>原文链接：</strong>https://card.weibo.com/article/m/show/id/2309404446641397563716
 
 深圳市友和道通集团是一家综合物流公司，旗下有友和道通实业，全一快递（全毅），速尔快递，友和道通航空等多家分子公司，直营在职员工7千多人。
