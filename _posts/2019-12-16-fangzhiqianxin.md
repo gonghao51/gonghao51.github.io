@@ -30,7 +30,7 @@ excerpt_separator: <!--more-->
 
 **快过年了，不少工友的工资还被拖欠着，尤其是建筑工人，万把块的工资还在大老板、小老板一众老板不知道谁的手里，也不知道什么时候才能领到。**这次新政策出台意味着什么，咱又能不能顺利拿到工钱？
 
-<div style="text-align:center"><img src="/images/201912/qianxin2.jpg" width="90%"></div>
+<div style="text-align:center"><img src="/images/201912/qianxin2.jpg" width="90%"></div><br>
 
 <div style="text-align:center;background-color:green;color:white"><strong>困境——温总理出面帮农民工讨薪16年以来，拖欠工资的情况怎么样了</strong></div>
 
