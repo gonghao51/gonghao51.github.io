@@ -1,12 +1,12 @@
 ---
 layout: archive
-permalink: /lilun/
-title: 理论
+permalink: /guoji/
+title: 国际风暴
 ---
 
 
 <div class="tiles">
-  {% for post in site.tags.lilun %}
+  {% for post in site.tags.guoji %}
  	{% include post-grid.html %}
   {% endfor %}
 </div>
