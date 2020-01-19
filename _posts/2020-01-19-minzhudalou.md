@@ -78,10 +78,8 @@ excerpt_separator: <!--more-->
 
 <h3>相关法律法规参考</h3>
 
-•关于全面治理拖欠农民工工资问题的意见（国办发[2016]1号）
+<a href="https://mp.weixin.qq.com/s/eKc3WvPqDe_xIBRN3p5vAw">关于全面治理拖欠农民工工资问题的意见（国办发[2016]1号）</a>
 
-https://mp.weixin.qq.com/s/eKc3WvPqDe_xIBRN3p5vAw
+<a href="https://mp.weixin.qq.com/s/gjx6uLoYOOirGR0d7jBp_A">保障农民工工资支付条例（2020.5.1施行）</a>
 
-•保障农民工工资支付条例（2020.5.1施行） 作为风向参考
 
-https://mp.weixin.qq.com/s/gjx6uLoYOOirGR0d7jBp_A
