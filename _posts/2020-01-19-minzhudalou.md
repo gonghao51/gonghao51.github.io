@@ -1,6 +1,6 @@
 ---
 template: post
-title: "建民主党派大楼却不民主，河南建筑工人工资被拖欠一年半"
+title: "【工友爆料】建民主党派大楼却不民主，河南建筑工人工资被拖欠一年半"
 date: 2020-01-19
 tags: baoliao
 image:
