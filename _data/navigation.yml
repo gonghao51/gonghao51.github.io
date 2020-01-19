@@ -1,32 +1,37 @@
 # Site navigation links
 
-- title: "新闻"
-  url: /xinwen/
+- title: "一周怪事"
+  url: /guaishi/
   excerpt: 
   image: teaser.jpg
   
-- title: "时评"
+- title: "51锐评"
   url: /shiping/
   excerpt: 
   image: teaser.jpg
   
-- title: "故事"
+- title: "打工秘籍"
+  url: /miji/
+  excerpt: 
+  image: teaser.jpg
+  
+- title: "工友爆料"
+  url: /baoliao/
+  excerpt: 
+  image: teaser.jpg
+
+- title: "工友之声"
   url: /gushi/
   excerpt: 
   image: teaser.jpg
-  
-- title: "普法"
-  url: /pufa/
-  excerpt: 
-  image: teaser.jpg
-  
-- title: "文艺"
+
+- title: "艺述工人"
   url: /wenyi/
   excerpt: 
   image: teaser.jpg
   
-- title: "理论"
-  url: /lilun/
+- title: "国际风暴"
+  url: /guoji/
   excerpt: 
   image: teaser.jpg
 
