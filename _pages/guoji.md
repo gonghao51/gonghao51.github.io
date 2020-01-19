@@ -1,5 +1,6 @@
 ---
 layout: archive
+permalink: /guoji/
 title: 国际风暴
 ---
 
