@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /gushi/
+permalink: /gushis/
 title: 工友之声
 ---
 
