@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /wenyi/
-title: 文艺
+title: 艺述工人
 ---
 
 
