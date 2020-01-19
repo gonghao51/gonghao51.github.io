@@ -1,6 +1,5 @@
 ---
 layout: archive
-permalink: /guaishi/
 title: 一周怪事
 ---
 
