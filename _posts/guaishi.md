@@ -1,12 +1,12 @@
 ---
 layout: archive
-permalink: /xinwen/
-title: 新闻
+permalink: /guaishi/
+title: 一周怪事
 ---
 
 
 <div class="tiles">
-  {% for post in site.tags.xinwen %}
+  {% for post in site.tags.guaishi %}
  	{% include post-grid.html %}
   {% endfor %}
 </div>
