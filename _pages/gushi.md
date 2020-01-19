@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /gushi/
-title: 故事
+title: 工友之声
 ---
 
 
