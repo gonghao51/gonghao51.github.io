@@ -2,13 +2,13 @@
 template: post
 title: "悼念李医生"
 date: 2020-02-07
-tags: [baoliao,yiqing]
+tags: [shiping,yiqing]
 image:
   teaser: /202002/liwenliang5.jpg
 excerpt_separator: <!--more-->
 ---
 
-<div style="width:98%;padding:10px;background-color:lightblue;margin:0;">
+<div style="width:98%;padding:10px;background-color:black;color:white;margin:0;">
 <strong>摘要：</strong>今天凌晨，曾因发布肺炎预警被以造谣处理的8名医生之一，武汉市中心医院医生李文亮因感染新型冠状病毒肺炎去世，享年34岁。<br><br>
 作为医生，运用专业知识只是提前为大众的健康预警，却被压制为造谣；作为工人，发布自己维权的舆论消息，也会被识别成不实信息被删除。<br><br>
 我们同处于一片天空下，我们的安全不被在乎，权益得不到保障，自由被严重剥夺。除了悼念，唯有永远的铭记、不断的追责。<br><br>
