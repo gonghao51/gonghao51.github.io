@@ -52,7 +52,7 @@ excerpt_separator: <!--more-->
 全印度政府护士联合会此前曾多次向政府提出诉求，她们的基本要求是得到更好的入门级薪级表——该表自1996年以来就一直没有变过了。护士们争辩说，尽管医生的薪水提高了14％以上，护士的薪水却一直没涨。
 
 
-<div style="width:98%;padding:10px;background-color:blue;color:white;margin:0;"> 不合格的工作环境 </div>
+<div style="width:98%;padding:10px;background-color:blue;color:white;margin:0;text-align:center"><strong> 不合格的工作环境 </strong></div>
 
 印度大部分护士在不受监管的私人诊所里工作，这些诊所并没有遵循护士与病人比例为一比四的规范。护士每天工作9到14小时，通常轮班两次。她们的起薪在3,000到15,000卢比之间。许多护士被要求与雇主签署合同保证书，并扣留其教育证书作为担保。
 
@@ -68,7 +68,7 @@ excerpt_separator: <!--more-->
 
 合同工制和外包制是政府对护士进行剥削的一个新方法。国家卫生部门按合同聘用护士，报酬比长期工低得多。两个护士，即使她们在同一家医院工作，即使具有相同资格和职位描述，只要有长期工和合同工的不同，也会获得不同的报酬，差距在15,000卢比到30,000卢比之间。（在中国也是如此，大量合同护士的薪水甚至达不到正式护士的一半！）
 
-<div style="width:98%;padding:10px;background-color:blue;color:white;margin:0;"> 护士们的抗议活动 </div>
+<div style="width:98%;padding:10px;background-color:blue;color:white;margin:0;text-align:center"><strong> 护士们的抗议活动 </strong></div>
 
 在1970年代末期和1980年代初，就曾爆发过政府护士的强烈抗议，她们对制服和住所提出了基本要求，还成立了协会和工会。这些协会集中在北部地区，包括德里护士联合会，马哈拉施特拉邦政府护士联合会，北方邦的拉贾基雅护士桑格，印度护理研究学会和全印度政府护士联合会。其中许多协会至今活跃。
 
