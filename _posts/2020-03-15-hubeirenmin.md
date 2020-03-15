@@ -1,8 +1,8 @@
 ---
 template: post
 title: "【51锐评】假的！湖北人民啥都没有"
-date: 2020-03-13
-tags: [guoji,yiqing]
+date: 2020-03-15
+tags: [shiping,yiqing]
 image:
   teaser: /202003/hubeirenmin0.jpg
 excerpt_separator: <!--more-->
