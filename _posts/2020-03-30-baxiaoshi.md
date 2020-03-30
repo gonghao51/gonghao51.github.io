@@ -37,9 +37,9 @@ excerpt_separator: <!--more-->
 
 **为什么100年前，工人会为了减少加班罢工，而今天咱们工人竟然会罢工要求加班？**
 
-<div style="text-align:center"><img src="/images/202003/baxiaoshi2.jpg" width="90%"></div><br><em>30年代的美国工人已经在为30小时的工作周游行抗议，等于每天才工作6个小时！</em><br>
+<div style="text-align:center"><img src="/images/202003/baxiaoshi2.jpg" width="90%"><br><em>30年代的美国工人已经在为30小时的工作周游行抗议，等于每天才工作6个小时！</em></div><br>
 
-<div style="text-align:center"><img src="/images/202003/baxiaoshi3.jpg" width="90%"></div><br><em>2014年，重庆富士康工人因为加班减少了而罢工，罢工诉求包括恢复加班</em><br>
+<div style="text-align:center"><img src="/images/202003/baxiaoshi3.jpg" width="90%"><br><em>2014年，重庆富士康工人因为加班减少了而罢工，罢工诉求包括恢复加班</em></div><br>
 
 51实在想不通，于是百度了一下“八小时运动”，重温了一下历史。
 
@@ -49,7 +49,7 @@ excerpt_separator: <!--more-->
 
 <div style="text-align:center"><img src="/images/202003/baxiaoshi4.jpg" width="90%"></div>
 
-当年工业革命还没蔓延到亚洲，产业工人主要集中在欧美，很多也是“农民工”，离开农村到城市打工。那时候的工人比我们还惨，每天工作10到16个小时，工资低得可怜，只勉强够生存。就是这么一些工人很快就喊起了八小时工作的诉求，这一诉求贯穿了整个十九世纪工人运动。二十世纪初，因无数次工人的罢工抗议和无数工人的牺牲，全球各地开始立法承认八小时工作制。
+当年工业革命还没蔓延到亚洲，产业工人主要集中在欧美，很多也是“农民工”，离开农村到城市打工。那时候的工人比我们还惨，每天工作10到16个小时，工资低得可怜，只勉强够生存。就是这么一些工人喊起了八小时工作的诉求，这一诉求贯穿了整个十九世纪工人运动。二十世纪初，因无数次工人的罢工抗议和无数工人的牺牲，全球各地开始立法承认八小时工作制。
 
 <div style="text-align:center"><img src="/images/202003/baxiaoshi5.jpg" width="90%"><br><em>十九世纪末的美国纺织厂工人，很多也是农民工、移民工</em></div><br>
 
@@ -59,7 +59,7 @@ excerpt_separator: <!--more-->
 
 <div style="text-align:center"><img src="/images/202003/baxiaoshi6.jpg" width="90%"><br><em>过劳、充满安全隐患的工作环境以及脏乱差的卫生条件导致十九世纪的产业工人死亡率非常高</em></div><br>
 
-<div style="text-align:center"><img src="/images/202003/baxiaoshi7.jpg" width="90%"></div><br><em>小白领过劳死亡的现象因996得到很多关注</em><br>
+<div style="text-align:center"><img src="/images/202003/baxiaoshi7.jpg" width="90%"><br><em>小白领过劳死亡的现象因996得到很多关注</em></div><br>
 
 <div style="text-align:center"><img src="/images/202003/baxiaoshi8.jpg" width="90%"><br><em>产业工人过劳死亡的现象虽然没有得到那么多关注但也常见</em></div><br>
 
@@ -69,7 +69,7 @@ excerpt_separator: <!--more-->
 
 <div style="text-align:center"><img src="/images/202003/baxiaoshi9.jpg" width="90%"><br><em>全球产业工人工会的八小时运动宣传图：“所有人会有工作，工作时间短，工资会涨，八小时工作”<br>在美国，工人1938年同时争取到八小时工作制以及最低工资标准的立法</em></div><br>
 
-而我们的前辈之所以能成功也是因为他们认识到，<strong><span style="color:red">老板从我们身上剥削了太多太多了。开豪车、住别墅这些老板的财富是哪儿来的？不就是咱们工人给他们创造的？</strong></span>即使老板自己也有付出了一份努力，很多老板的收入是工人的数十倍数百倍，他们拿的和他们付出的不成比例，这些也就是他们从工人身上剥夺的劳动价值。
+而我们的前辈之所以能成功也是因为他们认识到，<strong><span style="color:red">老板从我们身上剥削了太多太多了。开豪车、住别墅这些老板的财富是哪儿来的？不就是咱们工人给他们创造的？</span></strong>即使老板自己也有付出了一份努力，很多老板的收入是工人的数十倍数百倍，他们拿的和他们付出的不成比例，这些也就是他们从工人身上剥夺的劳动价值。
 
 那么，<strong><span style="color:red">工人理所应当要求涨工资，拿回自己创造的劳动价值</span></strong>。而且，无论是当年还是今天的<strong><span style="color:red">老板发得起</span></strong>，就如每年给老板们发几亿人民币但哭穷说发不起工人工资的比亚迪。
 
@@ -101,7 +101,7 @@ excerpt_separator: <!--more-->
 
 **现在我国最富有的1%的人占有三分之一的社会财富，最富有的10%占了接近三分之二，而这一小撮占据了大多数社会资源的人就是咱们老板**，他们又是通过剥削咱们劳动者致富的。现在经济困难了，<strong><span style="color:red">我们不向这些占据了社会三分之二的资源的人多要一点，还能找谁要去呢？</span></strong>应该让他们涨工资，把我们为他们创造的价值要回来！（其实除非提高很多只是让他们少剥削我们一点了……）
 
-<div style="text-align:center"><img src="/images/202003/baxiaoshi13.jpg" width="90%"></div><br>
+<div style="text-align:center"><img src="/images/202003/baxiaoshi13.jpg" width="90%"></div>
 
 <strong><span style="color:red">我们的要求很简单，也不难实现：我们要求提高底薪到一个不用加班就能过日子的水平，每个人工作八小时。这其实只不过是拿回来一百年前的工人曾经争取到的八小时劳动、八小时休闲、八小时休息的权利。</span></strong>
 
@@ -111,13 +111,13 @@ excerpt_separator: <!--more-->
 
 怎么要求？当年的工人是这么做的： 
 
-<div style="text-align:center"><img src="/images/202001/fakuan8.jpg" width="90%"></div><br>
+<div style="text-align:center"><img src="/images/202001/fakuan8.jpg" width="90%"></div>
 
 今天工人手中的武器，最强的也还是这个。
 
 相信工友们心里都知道需要怎么做了。当然，在此之前，我们需要团结更多身边的工人，让他们也明白，为什么缩短工作时间又提高工资不仅有可能，还非常迫切！
 
-<div style="text-align:center"><img src="/images/202003/baxiaoshi14.jpg" width="90%"></div><br><em>1937年，底托率沃尔沃斯超市女工通过7天的静坐罢工争取到每周工作时间限制40个小时，同时工资提高了20%，公司答应免费提供制服、不报复罢工的工人</em><br>
+<div style="text-align:center"><img src="/images/202003/baxiaoshi14.jpg" width="90%"><br><em>1937年，底托率沃尔沃斯超市女工通过7天的静坐罢工争取到每周工作时间限制40个小时，同时工资提高了20%，公司答应免费提供制服、不报复罢工的工人</em></div><br>
 
 最后送大家一首歌，方便边听边思考，又方便分享给其他人听，让更多人了解为什么提高工资、实施真正的八小时工作制，是我们工人这次危机中要喊出来的诉求。51真的不希望再看到有人向老板跪舔，求求老板多给点加班了！
 
@@ -125,7 +125,7 @@ excerpt_separator: <!--more-->
 
 <div style="text-align:center;width:98%;padding:10px;background-color:orange;margin:0;">
 <h3>《工作八小时》</h3><br>
-<em>五角星阅读</em><br><br>
+<em>五角星乐队</em><br><br>
 
 <strong>我们有一个共同的愿望，<br>
 每天工作8小时；<br>
@@ -150,7 +150,7 @@ excerpt_separator: <!--more-->
 早上起来，刷牙洗脸后，<br>
 带上手机厂牌钥匙零钱；<br>
 你我冲出这十平米的房间，<br>
-消失在这汹涌的人潮中。<br>
+消失在这汹涌的人潮中。<br><br>
 
 <strong>我们有一个共同的愿望，<br>
 每天工作8小时；<br>
