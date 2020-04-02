@@ -1,8 +1,8 @@
 ---
 template: post
-title: "【51锐评】没加班，没钱花，工人怎么做才能生存"
+title: "【打工秘籍】没加班，没钱花，工人怎么做才能生存"
 date: 2020-03-30
-tags: [shiping,yiqing]
+tags: [miji,yiqing]
 image:
   teaser: /202003/baxiaoshi0.jpg
 excerpt_separator: <!--more-->
