@@ -4,7 +4,7 @@ title: "今年五一不一般"
 date: 2020-05-01
 tags: 
 image:
-  teaser: /202004/0425guaishi3.jpg
+  teaser: /202005/wuyi0.jpg
 excerpt_separator: <!--more-->
 ---
 
