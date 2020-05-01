@@ -1,8 +1,8 @@
 ---
 template: post
 title: "【工友爆料】雷神山医院建设工人被井茬震压！"
-date: 2020-03-22
-tags: guaishi
+date: 2020-03-25
+tags: baoliao
 image:
   teaser: 202003/leishenshan0.jpg
 excerpt_separator: <!--more-->
