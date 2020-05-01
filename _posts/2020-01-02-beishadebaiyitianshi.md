@@ -4,7 +4,7 @@ title: "【51锐评】在“平安夜”被杀的白衣天使，死得有多冤�
 date: 2020-01-02
 tags: [shiping]
 image:
-  teaser: /202001/baiyitianshi1.jpg
+  teaser: /202001/baiyitianshi-1.jpg
 excerpt_separator: <!--more-->
 ---
 

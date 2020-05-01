@@ -4,7 +4,7 @@ title: "【打工秘籍】黑厂偷摸提前开工，看工友如何建群斗智
 date: 2020-02-19
 tags: [yiqing,miji]
 image:
-  teaser: /202002/9-1.jpg
+  teaser: /202002/200201-2.jpg
 excerpt_separator: <!--more-->
 ---
 

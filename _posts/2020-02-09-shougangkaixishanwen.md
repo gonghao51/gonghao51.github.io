@@ -4,7 +4,7 @@ title: "‘首钢凯西’文章删除说明"
 date: 2020-02-07
 tags: [yiqing]
 image:
-  teaser: /202002/shouguangshanchu.jpg
+  teaser: /202002/shougangshanchu.jpg
 excerpt_separator: <!--more-->
 ---
 
@@ -21,7 +21,7 @@ excerpt_separator: <!--more-->
 免得给我们<br>
 <strong>”后期添加麻烦“</strong><br><br>
 
-<img src="/images/202002/shouguangshanchu.jpg" width="90%"><br><br>
+<img src="/images/202002/shougangshanchu.jpg" width="90%"><br><br>
 
 同时<br>
 由于爆料工友<br>
