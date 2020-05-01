@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 
 
 
-<div style="width:98%;padding:10px;background-color:lightblue;margin:0;">
+<div style="width:98%;padding:10px;background-color:black;color:white;margin:0;">
 <strong>摘要：</strong>武汉肺炎几多愁，恰似穷人难抬头<br><br>
 </div><br>
 

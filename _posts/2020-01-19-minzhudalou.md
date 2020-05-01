@@ -9,7 +9,7 @@ excerpt_separator: <!--more-->
 ---
 
 
-<div style="width:98%;padding:10px;background-color:lightblue;margin:0;">
+<div style="width:98%;padding:10px;background-color:black;color:white;margin:0;">
 <strong>编者语：</strong> 今天的文章是一名装修工朋友的爆料：作为基层工人，为民主党派建大楼，他们的薪水已被拖欠一年半，至今没有着落。在国家出台《保障农民工工资支付条例》的同时，农民工讨薪怎么还是那么困难？农民工的工资怎么样才能得到保障呢？显然需要工人自己行动，团结起来维护自己的利益才有希望。不然《保障农民工工资支付条例》只将会成为一张废纸。
 </div><br>
 
