@@ -1,4 +1,4 @@
----
+﻿---
 template: post
 title: "【打工秘籍】辞工不批，如何走人又拿到工资"
 date: 2019-12-02
@@ -17,13 +17,13 @@ excerpt_separator: <!--more-->
 
 </div>
 
-<div style="text-align:center"><img src="/images2/cigongbupi1.jpg" width="90%"></div>
+<div style="text-align:center"><img src="/images/201912/cigongbupi1.jpg" width="90%"></div>
 
 <h3>辞工不批很常见</h3>
 
 不过，工厂这种地方，往往是进来容易出去难。在辞工过程中，也许大家都遇到过厂方不批准——让你排队辞职，一排就是几个月，或是半年，要不就自己自离，白白给企业工作一个月，好像这也成了大家在打工过程中常遇到的问题。
 
-<div style="text-align:center"><img src="/images2/cigongbupi2.jpg" width="90%"></div>
+<div style="text-align:center"><img src="/images/201912/cigongbupi2.jpg" width="90%"></div>
 
 那么辞工真的是需要工厂批准的吗？我们一起来看看《中华人民共和国劳动合同法》第二十七条规定：劳动者**提前三十日**以**书面形式通知**用人单位，可以解除劳动合同，劳动者在**试用期**内提前**三日**通知用人单位，可以解除劳动合同。
 
@@ -31,7 +31,7 @@ excerpt_separator: <!--more-->
 
 工厂不是监狱，打工也不是卖身，不想干了辞职是天经地义的事情。老板如果以工资相要挟把工人留在厂里，有强迫劳动的嫌疑，我们是要坚决反对的。
 
-<div style="text-align:center"><img src="/images2/cigongbupi3.jpg" width="90%"></div>
+<div style="text-align:center"><img src="/images/201912/cigongbupi3.jpg" width="90%"></div>
 
 <h3>如何获取书面证据</h3>
 
@@ -45,7 +45,7 @@ excerpt_separator: <!--more-->
 
 等快递寄到以后，在邮局的网页上打印“寄到回执”（由于很多人都会选择在自己附近的邮局点邮寄，在邮寄的时候，你要记得提醒收快递的人，你需要送达回执），**保留好特快专递的回执**。
 
-<div style="text-align:center"><img src="/images2/cigongbupi4.jpg" width="90%"></div>
+<div style="text-align:center"><img src="/images/201912/cigongbupi4.jpg" width="90%"></div>
 
 然后，保存好与工厂存在劳动关系的证明，如：劳动合同、厂牌、工卡、工资条、出入证、警告信、罚款单等。
 
@@ -53,7 +53,7 @@ excerpt_separator: <!--more-->
 
 三十天（或者三天）后，劳动关系就自动终止了。如果厂方还是要求我们继续上班，威胁未经批准离职会按旷工罚款等等，统统不需要理会。这个时候应该做的是：**带齐证据，到人事部要求结清工资，即便不能当场支付，也要核算清楚并开具证明，整个斗争记得录音。**
 
-<div style="text-align:center"><img src="/images2/cigongbupi5.jpg" width="90%"></div>
+<div style="text-align:center"><img src="/images/201912/cigongbupi5.jpg" width="90%"></div>
 
 当然呢，不少厂子依然骄横，一定要执行他们的“黑厂规”——扣钱。很多工友会有“这里扣了，我赶快去其他地方赚回来”的想法，觉得麻烦，不想和厂方纠缠，其实这种忍气吞声的行为助长了老板肆意欺负工人的嚣张气焰；争取辞职没有那么困难，一个工友的成功也会大大增加其他工友的信心——既然你能要到工资，我也可以！
 
@@ -74,7 +74,7 @@ excerpt_separator: <!--more-->
 
 <br>
 
-<div style="text-align:center"><img src="/images2/cigongbupi6.jpg" width="90%"></div>
+<div style="text-align:center"><img src="/images/201912/cigongbupi6.jpg" width="90%"></div>
 
 <br>
 
@@ -89,7 +89,7 @@ excerpt_separator: <!--more-->
 
 <br>
 
-<div style="text-align:center"><img src="/images2/cigongbupi7.jpg" width="90%"></div>
+<div style="text-align:center"><img src="/images/201912/cigongbupi7.jpg" width="90%"></div>
 
 辞职是一场博弈，按照上面的方法提前留好书面证据，是增加我方筹码的有效方式。可能还不等我们打劳动局电话，自知违法的老板就会答应诉求。**如果还是不成功，还可以尝试其他能给厂方施加压力的方式，比如围堵主管死缠烂打，给工友发传单揭露厂方违法，**或者想想其他能扩大影响的办法（吴杰的办法就是一种）。
 
@@ -115,13 +115,13 @@ excerpt_separator: <!--more-->
 
 <br><br>
 
-<div style="text-align:center"><img src="/images2/cigongbupi8.jpg" width="90%"></div>
+<div style="text-align:center"><img src="/images/201912/cigongbupi8.jpg" width="90%"></div>
 
 其实，如果其他工友也因辞工被拖欠工资，完全可以叫上他们一起，拿着证据和老板谈判。**谈判的时候所有证据都记得复印件，把原件留在家中，曾经出现过工友和老板理论时保安抢夺证据的情况，大家千万别低估老板的反动程度。**
 
 遇到劳动部门的傲慢，先别灰心丧气，劳动部门是为了维护劳动关系稳定设立的，之所以存在就是为了避免工人 “闹事”，其中官员更不愿自己和企业之间的灰色交易曝光。在认清它作为资本主义维稳机器的本质后，更要把握主动权，利用他们的特点进行斗争。**一个人投诉没人理会，多几个人一起要求解决，或许就会完全不一样。**
 
-<div style="text-align:center"><img src="/images2/cigongbupi9.jpg" width="90%"></div>
+<div style="text-align:center"><img src="/images/201912/cigongbupi9.jpg" width="90%"></div>
 
 <h3>遇到急事辞工怎么办</h3>
 

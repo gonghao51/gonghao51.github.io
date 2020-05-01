@@ -1,10 +1,10 @@
 ---
 template: post
-title: "恭贺新春 | 向加班加点抗疫情的工人致敬"
+title: "【疫情专栏】疫情面前，需要上班吗？不上会被开除吗？视频解读最新政策"
 date: 2020-01-26
 tags: [yiqing]
 image:
-  teaser: /202002/yiqingyixian.jpg
+  teaser: 
 excerpt_separator: <!--more-->
 ---
 <div style="width:98%;padding:10px;background-color:black;color:white;margin:0;"><strong>编者按：</strong>今天已经初二了，猪年突然离去，鼠年到来。正常来说，过几天我国的劳动大军就要开始返城打工了。但今年是一个特别的年——从蝙蝠传来的疫情伴随着我们迈入了这个鼠年。我们是否能正常返城还是一个疑问。两天前，人社局已经出通知，说明劳动关系在这个特殊时期应该怎么处理。所有工人、上班族如果未了解这个政策，都应该马上注意。<br><br>
