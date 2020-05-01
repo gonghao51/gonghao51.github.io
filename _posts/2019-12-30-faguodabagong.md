@@ -2,7 +2,7 @@
 template: post
 title: "法国大罢工背后的退休制度改革：改革是个大骗局，引起众怒"
 date: 2019-12-30
-tags: 
+tags: guoji
 image:
   teaser: /201912/tuixiu2.jpg
 excerpt_separator: <!--more-->

@@ -2,7 +2,7 @@
 template: post
 title: "【51锐评】外国人永居条例出台，抢了我们资源的到底是谁？"
 date: 2020-03-05
-tags: [guaishi]
+tags: [shiping]
 image:
   teaser: /202003/waiguoren2.jpg
 excerpt_separator: <!--more-->

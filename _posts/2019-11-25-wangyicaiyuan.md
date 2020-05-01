@@ -2,7 +2,7 @@
 template: post
 title: "网易裁员，让保安把身患绝症的我赶出公司。我在网易亲身经历的噩梦！| 转发"
 date: 2019-11-25
-tags: 
+tags: baoliao
 image:
   teaser: /201911/wangyi.jpg
 excerpt_separator: <!--more-->

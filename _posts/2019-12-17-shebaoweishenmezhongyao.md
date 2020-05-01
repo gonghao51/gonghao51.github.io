@@ -2,7 +2,7 @@
 template: post
 title: "【打工秘籍】社保为什么重要，老板不缴该怎么办？"
 date: 2019-12-17
-tags: kuaixun
+tags: miji
 image:
   teaser: /201912/shebao2.jpg
 excerpt_separator: <!--more-->

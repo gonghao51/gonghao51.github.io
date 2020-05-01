@@ -2,7 +2,7 @@
 template: post
 title: "工友必看 | 美丽青年全泰壹"
 date: 2019-07-07
-tags: 
+tags: wenyi
 image:
   teaser: /201907/quantaiyi4.webp
 excerpt_separator: <!--more-->

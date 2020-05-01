@@ -2,7 +2,7 @@
 template: post
 title: "【打工秘籍】辞工不批，如何走人又拿到工资"
 date: 2019-12-02
-tags: kuaixun
+tags: miji
 image:
   teaser: /201912/cigongbupi1.jpg
 excerpt_separator: <!--more-->

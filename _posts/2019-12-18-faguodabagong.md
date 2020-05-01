@@ -2,7 +2,7 @@
 template: post
 title: "【国际风暴】法国黄马甲之后，退休福利缩水导致全法大罢工"
 date: 2019-12-18
-tags: kuaixun
+tags: guoji
 image:
   teaser: /201912/faguobagong3.jpg
 excerpt_separator: <!--more-->

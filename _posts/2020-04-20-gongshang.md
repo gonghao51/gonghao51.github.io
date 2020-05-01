@@ -2,7 +2,7 @@
 template: post
 title: "东北民工因工受伤送医抢救 民企老板拒赔被迫断药 | 转发"
 date: 2020-04-20
-tags: 
+tags: baoliao
 image:
   teaser: /202004/dbmg0.jpg
 excerpt_separator: <!--more-->

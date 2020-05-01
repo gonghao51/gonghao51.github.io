@@ -2,7 +2,7 @@
 template: post
 title: "沃尔玛闭店，又双叒想坑工人的辛苦钱！工人要求合法发放经济补偿金 | 转发"
 date: 2020-04-13
-tags: 
+tags: baoliao
 image:
   teaser: /202004/woerma1.jpg
 excerpt_separator: <!--more-->

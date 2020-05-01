@@ -2,7 +2,7 @@
 template: post
 title: "【国际风暴】印度国企私有化，上万人罢工抗议"
 date: 2019-12-03
-tags: kuaixun
+tags: guoji
 image:
   teaser: /201912/yindu3.jpg
 excerpt_separator: <!--more-->

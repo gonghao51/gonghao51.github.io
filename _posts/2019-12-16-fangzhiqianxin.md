@@ -2,7 +2,7 @@
 template: post
 title: "9012年了，为什么居然会有专门防止欠薪的法律出台"
 date: 2019-12-16
-tags: kuaixun
+tags: shiping
 image:
   teaser: /201912/qianxin1.jpg
 excerpt_separator: <!--more-->

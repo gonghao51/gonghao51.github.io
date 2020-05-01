@@ -2,7 +2,7 @@
 template: post
 title: "工友必看 | 《辩护人》"
 date: 2019-06-26
-tags: 
+tags: wenyi
 image:
   teaser: /201906/bianhuren1.webp
 excerpt_separator: <!--more-->
