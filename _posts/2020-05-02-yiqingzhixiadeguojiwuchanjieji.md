@@ -44,7 +44,9 @@ excerpt_separator: <!--more-->
 
 印度从3月25日起全国封城，公共交通暂停。从农村来城市谋生的工人失去了生活来源，也支付不起昂贵的私人交通，不得不徒步返回家乡。**几百公里的漫漫长路上，有儿童被累死，有成年人突发疾病去世，有人被卡车撞死......** 后来政府派来大巴接送，数量也远远、远远不够，密密麻麻地挤在大巴上传染风险更高。甚至，有贫民在失业之后开始捡垃圾为生。
 
-<div style="text-align:center;color:grey"><img src="/images/202005/yiqingguoji7.jpg" width="90%"><br>新德里郊外垃圾填埋场上捡垃圾卫生的贫民</div><br>
+<div style="text-align:center;color:grey"><img src="/images/202004/0425guaishi3.jpg" width="90%"><br>大量印度务工者正在徒步回家</div><br>
+
+<div style="text-align:center;color:grey"><img src="/images/202005/yiqingguoji7.jpg" width="90%"><br>新德里郊外垃圾填埋场上捡垃圾为生的贫民</div><br>
 
 印度最大的贫民窟，从4月1日第一次有人确诊，到4月30日，已经有344人确诊18人殒命。**这里人口拥挤、环境恶劣，根本没有保持社交距离的条件，不难想象病毒还将会夺去多少贫民脆弱的生命。**同时期还有另外一则新闻，彭博亿万富豪榜显示，印度首富穆凯什•安巴尼击败了马云，再次成为亚洲首富。
 
