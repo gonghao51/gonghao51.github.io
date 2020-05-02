@@ -1,6 +1,6 @@
 ---
 template: post
-title: "疫情之下的国际武产阶级"
+title: "这个劳动节，全世界的穷人在死去"
 date: 2020-05-02
 tags: 
 image:
