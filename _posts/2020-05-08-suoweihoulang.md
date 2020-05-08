@@ -9,7 +9,7 @@ excerpt_separator: <!--more-->
 ---
 
 <div style="width:98%;padding:10px;background-color:black;color:white;margin:0;">
-<strong>编者按：</strong>看了“后浪”这个演说，我实在觉得恶心，所以写了这首诗。<br><br>
+<strong>作者说：</strong>看了“后浪”这个演说，我实在觉得恶心，所以写了这首诗。<br><br>
 
 这个演说在b站很火，它讲得是什么呢？如今的年轻人，是有史以来最幸福的一代，享受着前人积累下的物质精神财富，可以自由、全面的发展，尽情享受热爱的东西………<br><br>
 
