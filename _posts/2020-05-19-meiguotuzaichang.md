@@ -8,7 +8,7 @@ image:
 excerpt_separator: <!--more-->
 ---
 
-<div style="width:98%;padding:10px;background-color:black;color:white;margin:0;"><strong>编者按：</strong><a href=“https://gonghao51.github.io/2020/05/13/yinninugong/”>印尼工人喝蒸馏水、死在中国渔船上</a>的同时，来自世界各地的移民工人正在死于美国的屠宰场中。<br><br>
+<div style="width:98%;padding:10px;background-color:black;color:white;margin:0;"><strong>编者按：</strong><a href="https://gonghao51.github.io/2020/05/13/yinninugong/">印尼工人喝蒸馏水、死在中国渔船上</a>的同时，来自世界各地的移民工人正在死于美国的屠宰场中。<br><br>
 
 美国全国各地的屠宰场最近大量爆发新冠肺炎，工人大量死亡。4月28日，特朗普却通过了新的政策，禁止屠宰场停产，同时说道准备给发生疫情的屠宰场免除法律责任。简直太典型了！<br><br>
 
@@ -109,7 +109,7 @@ RWSDU主席斯图尔特•阿普尔鲍姆（Stuart Applebaum）说道，“整�
 
 尽管有威胁的存在，美国乡村的屠宰场工人决定了起来反抗。
 
-“我们的工会成员都是英雄。他们在新冠病毒的疫情期间喂养了整个美国，他们需要被保护。”RWDSU主席阿普尔鲍姆说道。“我们每一天都接到我们成员确诊新冠病毒甚至病死的报告。我们不会默默忍受这样的情况，禽业的巨头也不不应该允许这样的情况发生。”
+“我们的工会成员都是英雄。他们在新冠病毒的疫情期间喂养了整个美国，他们需要被保护。”RWDSU主席阿普尔鲍姆说道。“我们每一天都接到我们成员确诊新冠病毒甚至病死的报告。我们不会默默忍受这样的情况，禽业的巨头也不应该允许这样的情况发生。”
 
 <div style="text-align:center;color:grey"><img src="/images/202005/tuzaichang7.jpg" width="90%"></div>
 
