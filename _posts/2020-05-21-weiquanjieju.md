@@ -1,7 +1,7 @@
 ---
 template: post
 title: "工人维权的可能结局：被维稳、被反恐、被审判、被名录"
-date: 2020-05-19
+date: 2020-05-21
 tags: 
 image:
   teaser: /202005/weiquanjieju1.jpg
