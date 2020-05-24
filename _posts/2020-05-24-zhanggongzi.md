@@ -28,7 +28,7 @@ excerpt_separator: <!--more-->
 
 <div style="text-align:center">
 
-<a href="/audio/zhanggongzi-yinxiao.mp3">点此下载歌曲</a>
+<div style="background-color:orange;color:white;text-align:center"><strong><a href="/audio/zhanggongzi-yinxiao.mp3">点此（长按或右击）下载歌曲</a></strong></div>
 
 <h3>涨工资</h3><br>
 <span style="color:grey">词：老蒋  改编自：誓言的《求佛》</span><br><br>
