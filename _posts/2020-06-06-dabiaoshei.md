@@ -13,7 +13,7 @@ excerpt_separator: <!--more-->
 
 我没事就喜欢刷刷手机看新闻，平时流水线上干活太枯燥，经常找旁边的兄弟闲扯，最近我给他讲人民代表大会，可这兄弟总一副不以为然的样子，“我小老百姓一个，操心什么政治？”
 
-<div style="text-align:center;color:grey"><img src="/images/202006/daibiaoshei1.jpg" width="90%"></div>
+<div style="text-align:center;color:grey"><img src="/images/202006/daibiaoshei1.jpg" width="98%"></div>
 
 话可不是这么说！想想下面几个场景：
 
@@ -33,10 +33,11 @@ excerpt_separator: <!--more-->
 
 所以，一起来看看这次人民代表大会上，我们的人民代表都在讨论些什么吧！
 
-<div style="text-align:center;color:grey"><img src="/images/202006/daibiaoshei2.jpg" width="90%"></div><br>
+<div style="text-align:center;color:grey"><img src="/images/202006/daibiaoshei2.jpg" width="98%"></div><br>
 
 
-<div style="text-align:center;background-color:blue;color:white"><h3>  一：奇葩提案、暴虐草案年年有  </h3></div>
+<div style="text-align:center;background-color:red;color:white"><h3>  一：奇葩提案  </h3></div>
+<div style="text-align:center;background-color:red;color:white"><h3>  暴虐草案年年有  </h3></div>
 
 和往年的提案一样，今年的提案和草案同样很有“特色。”
  
@@ -48,7 +49,7 @@ excerpt_separator: <!--more-->
 
 虽然他们的说辞都不同，但目的都是一致的——取消住房公积金。
 
-<div style="text-align:center;color:grey"><img src="/images/202006/daibiaoshei3.jpg" width="90%"></div>
+<div style="text-align:center;color:grey"><img src="/images/202006/daibiaoshei3.jpg" width="98%"></div>
 
 为何公积金让某部分人深痛恶觉？无非是因为取消公积金对于资本家有利。
 
@@ -58,7 +59,7 @@ excerpt_separator: <!--more-->
 
 看来，**这个提案不是为劳动人民提的，而是方便从劳动人民伤痕累累的身躯上榨出更多的鲜血，以供资本家们吮吸。**
 
-<div style="text-align:center;color:grey"><img src="/images/202006/daibiaoshei4.jpg" width="90%"></div><br>
+<div style="text-align:center;color:grey"><img src="/images/202006/daibiaoshei4.jpg" width="98%"></div><br>
 
 <div style="text-align:center"><strong>2、暴虐草案：“离婚冷静期”条款被通过</strong></div>
 
@@ -66,7 +67,7 @@ excerpt_separator: <!--more-->
 
 虽然上面写着30日，但按照民法内容，实际上的“离婚冷静期”可长达60日。
 
-<div style="text-align:center;color:grey"><img src="/images/202006/daibiaoshei5.jpg" width="90%"></div>
+<div style="text-align:center;color:grey"><img src="/images/202006/daibiaoshei5.jpg" width="98%"></div>
 
 设定“离婚冷静期”，这是在开历史倒退车。
 
@@ -74,7 +75,7 @@ excerpt_separator: <!--more-->
 
 据统计，我国2.7亿个家庭中，有30%的已婚女性曾遭受家暴，平均7.4秒就有一人受丈夫殴打！我国每年有15.7万妇女自杀、其中60%妇女自杀是因为家庭暴力。“离婚冷静期”条款的审核通过，不是将离婚的门槛设得更高吗？让女性在受着资本家剥削和家庭暴力下，还要继续忍受2个月，这期间又将有多少女性死于这一暴政？
 
-<div style="text-align:center;color:grey"><img src="/images/202006/daibiaoshei6.jpg" width="90%"></div>
+<div style="text-align:center;color:grey"><img src="/images/202006/daibiaoshei6.jpg" width="98%"></div>
 
 为啥这帮人非要干预无产阶级离婚？还不是为了“社会稳定”嘛，最愚蠢的统治者也明白，单身的工人比起有家庭的，反抗的时候更没有后顾之忧，更不容易逆来顺受！所以当然不能让你离婚了，至于哪个女工被家暴致死了，又不威胁资本家的利益，随便好了！
 
@@ -84,11 +85,11 @@ excerpt_separator: <!--more-->
 
 令人奇怪的是，他们从不为底层人民考虑，为啥他们又叫人大代表呢！？
 
-<div style="text-align:center;color:grey"><img src="/images/202006/daibiaoshei7.jpg" width="90%"></div>
+<div style="text-align:center;color:grey"><img src="/images/202006/daibiaoshei7.jpg" width="98%"></div>
 
 
 
-<div style="text-align:center;background-color:blue;color:white"><h3>  二：人大代表的本质  </h3></div>
+<div style="text-align:center;background-color:red;color:white"><h3>  二：人大代表的本质  </h3></div>
 
 人大的正式名称是人民代表大会，我国称人大是代表人民来行使权力的机构。按照一般理解，既然是人民代表，代表的是人民，那么人民——也即普通民众——理应在这个“议会”里占有多数席位。
 
@@ -104,15 +105,15 @@ excerpt_separator: <!--more-->
 **田春艳：** 北京市建设工程质量第三检测所有限责任公司总工程师；<br>
 **冯乐平：** 北京市农产品协会会长、北京庞各庄农产品产销有限公司董事长，并在2015年获得“全国劳动模范”荣誉称号。
 
-..............................................................................................................
+………………
 
 这就是传说中的人大代表？资本家啊、官员啊、高管啊、教授院长啊，这明明就是权贵啊！这些人，在职时有医疗报销，各种福利；退休后可以去疗养院、度假村；身边分配着秘书、司机、保镖······——和我们劳动人民有半毛钱关系？
 
-<div style="text-align:center;color:grey"><img src="/images/202006/daibiaoshei8.jpg" width="90%"></div>
+<div style="text-align:center;color:grey"><img src="/images/202006/daibiaoshei8.jpg" width="98%"></div>
 
 据不完全统计，1975年第四届人大中，工农代表占51.1%，此后连年下滑，到了2003年第十届人大会议，工农代表所占比例不足4%。按照官方的说法，“工农”指的是“一线工人”和“基层农民”。
 
-<div style="text-align:center;color:grey"><img src="/images/202006/daibiaoshei9.jpg" width="90%"><br>1975年以来人大代表中工农代表占比</div><br>
+<div style="text-align:center;color:grey"><img src="/images/202006/daibiaoshei9.jpg" width="98%"><br>1975年以来人大代表中工农代表占比</div><br>
 
 人大中的工农代表比例，从高峰时占“半壁江山”跌落到新世纪“无足轻重”的4%，时间只用了28年，不能不使人惊讶。但这确是工农在中国政治生活中真实地位演变的写照。
 
@@ -124,11 +125,11 @@ excerpt_separator: <!--more-->
 
 实际上，10名“工人代表”中，有5人的真实身份是专业技术人员，3人是企业负责人，1人是私企老板，只有1个是疑似工人。说疑似，是因为其为郑州铁路局下属的一个小车站的站长，可归类于产业工人队伍。18名“农民代表”中，真实身份为村干部、工商企业负责人的有10人，私企老板的有5人，公务员、工商企业负责人的有2人，村医有1人，来自种粮的农民则没有。
 
-<div style="text-align:center;color:grey"><img src="/images/202006/daibiaoshei10.jpg" width="90%"><br>河南省第十二届全国人大代表身份及人数</div><br>
+<div style="text-align:center;color:grey"><img src="/images/202006/daibiaoshei10.jpg" width="98%"><br>河南省第十二届全国人大代表身份及人数</div><br>
 
 可见，真正的工人、农民代表一个也没有；疑似工人农民各一名(车站站长、村医)，占代表总数的1.16%。如果把10个村干部都算农民，工农代表占代表总数的比例也只有7%；党政干部代表76名，占代表总数的44%；知识分子代表39名，占代表总数的23%；企业负责人代表44名，占代表总数的26%，其中私营企业老板代表24名，占代表总数的14%。
 
-<div style="text-align:center;color:grey"><img src="/images/202006/daibiaoshei11.jpg" width="90%"><br>河南省第十二届全国人大代表身份及人数</div>
+<div style="text-align:center;color:grey"><img src="/images/202006/daibiaoshei11.jpg" width="98%"><br>河南省第十二届全国人大代表身份及人数</div>
 
 大家可能不知道，我国人大代表是通过民主选举选出来的。既然是由民主选举选出来的，那人民代表大会怎么全是权贵，却没有劳动人民的身影呢！？
 
@@ -138,7 +139,7 @@ excerpt_separator: <!--more-->
 
 当时正值人民代表大会选举时期，合肥市中国科技大学学生指责校方指定人大代表候选名单让大家投票，号召学生自己参与竞选，并发起游行。随后，上海同济大学、华东师范等学校也发起了游行。最后的结果是公安局干警到达现场，将学生运动给镇压下去了。
 
-<div style="text-align:center;color:grey"><img src="/images/202006/daibiaoshei12.jpg" width="90%"></div>
+<div style="text-align:center;color:grey"><img src="/images/202006/daibiaoshei12.jpg" width="98%"></div>
 
 可见，名义上是自下而上，实际上是自上而下；表面上是平等竞选，实际上是内定。政治权利只是资产阶级的特权，工人则没有丝毫的政治权利，只能眼睁睁看着一帮权贵商量着怎么压榨人民。
 
@@ -146,7 +147,7 @@ excerpt_separator: <!--more-->
 
 他们在人大代表的工农比例上玩偷梁换柱的把戏，无非是堵住舆论，维护“特色”的合法性；他们给我们带上“主人翁”的光环，无非是用这碗迷魂汤让我们忘却被奴役的惨状；所谓的人民代表大会，无非是大官、资本家富豪大款、娱乐圈知名大腕等所组成的资本权贵的盛会。
 
-<div style="text-align:center;color:grey"><img src="/images/202006/daibiaoshei13.jpg" width="90%"></div>
+<div style="text-align:center;color:grey"><img src="/images/202006/daibiaoshei13.jpg" width="98%"></div>
 
 所以，公务员不仅退休金拿得极高，而且在长达30多年的时间内全部让纳税人为其缴纳养老保险。相对而言，企业职工只能拿公务员退休金的四分之一，却要多缴纳十几万的养老保险；
 
@@ -160,7 +161,7 @@ excerpt_separator: <!--more-->
 
 在现有体制中，他们究竟体现了谁的利益，又为谁服务，不是已经昭然若揭了嘛？
 
-<div style="text-align:center;color:grey"><img src="/images/202006/daibiaoshei14.jpg" width="90%"></div>
+<div style="text-align:center;color:grey"><img src="/images/202006/daibiaoshei14.jpg" width="98%"></div>
 
 他们不光贪得无厌，而且腐朽堕落。
 
@@ -174,4 +175,4 @@ excerpt_separator: <!--more-->
 
 **工友们，不能再让这些靠吸吮劳动者血肉而活的寄生虫代表了我们，不要再给那碗“国家主人”的迷魂汤蒙蔽了。我们受着压迫、剥削的劳动人民也必须组织起来、联合起来，并把目标对向政府本身，才能够避免继续被奴役的命运。**
 
-<div style="text-align:center;color:grey"><img src="/images/202006/daibiaoshei15.jpg" width="90%"></div>
+<div style="text-align:center;color:grey"><img src="/images/202006/daibiaoshei15.jpg" width="98%"></div>
