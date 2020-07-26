@@ -17,10 +17,6 @@ excerpt_separator: <!--more-->
 
 2020年5月18日/David Bacon
 
-**来源：**https://zhuanlan.zhihu.com/p/161544050
-
-https://www.labornotes.org/2020/05/hundreds-apple-workers-strike-washington
-
 **翻译：**入关牌加速器（新十日谈）
 
 
@@ -71,4 +67,5 @@ https://www.labornotes.org/2020/05/hundreds-apple-workers-strike-washington
 
 <div style="text-align:center;color:grey"><img src="/images/202007/pingguogongren5.jpg" width="98%"></div>
 
-**原文：**https://zhuanlan.zhihu.com/p/161544050
+**翻译原文：**<a href="https://zhuanlan.zhihu.com/p/161544050">https://zhuanlan.zhihu.com/p/161544050</a>
+**原文**：<a href="https://www.labornotes.org/2020/05/hundreds-apple-workers-strike-washington">https://www.labornotes.org/2020/05/hundreds-apple-workers-strike-washington</a>
