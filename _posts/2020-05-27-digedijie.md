@@ -2,7 +2,7 @@
 template: post
 title: "催缴、跳楼、上访——2020的哥的姐遭遇了什么？"
 date: 2020-05-27
-tags: 
+tags: shiping
 image:
   teaser: /202005/digedijie4.jpg
 excerpt_separator: <!--more-->

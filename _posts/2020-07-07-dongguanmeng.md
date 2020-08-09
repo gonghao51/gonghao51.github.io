@@ -2,7 +2,7 @@
 template: post
 title: "【工友之声】失落的东莞打工梦 "
 date: 2020-07-07
-tags: 
+tags: gushi
 image:
   teaser: /202007/dongguanmeng1.jpg
 excerpt_separator: <!--more-->

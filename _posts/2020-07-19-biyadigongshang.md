@@ -2,7 +2,7 @@
 template: post
 title: "【工友之声】大名鼎鼎的比亚迪，三个月死了五个工人"
 date: 2020-07-19
-tags: 
+tags: gushi
 image:
   teaser: /202007/biyadigongshang1.jpg
 excerpt_separator: <!--more-->

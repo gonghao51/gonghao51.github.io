@@ -2,7 +2,7 @@
 template: post
 title: "【工友之声】救救工人的孩子！结束资产阶级的教育路线！ "
 date: 2020-07-31
-tags: 
+tags: gushi
 image:
   teaser: /202007/jiujiuhaizi3.jpg
 excerpt_separator: <!--more-->

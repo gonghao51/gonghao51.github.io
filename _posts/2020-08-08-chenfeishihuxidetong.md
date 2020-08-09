@@ -2,7 +2,7 @@
 template: post
 title: "【艺述工人】尘肺是会呼吸的痛 "
 date: 2020-08-08
-tags: 
+tags: wenyi
 image:
   teaser: /202008/chenfei1.jpg
 excerpt_separator: <!--more-->

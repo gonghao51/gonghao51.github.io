@@ -2,7 +2,7 @@
 template: post
 title: "【国际风暴】厂里已经很多人感染，政府发令让大家继续上班"
 date: 2020-07-29
-tags: 
+tags: guoji
 image:
   teaser: /202007/deguotuzaichang1.jpg
 excerpt_separator: <!--more-->

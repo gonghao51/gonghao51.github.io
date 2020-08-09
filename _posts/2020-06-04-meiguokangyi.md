@@ -2,7 +2,7 @@
 template: post
 title: "【国际风暴】大批示威者冲击白宫，抗议资本主义，反对现代奴隶制"
 date: 2020-06-04
-tags: 
+tags: guoji
 image:
   teaser: /202006/meiguokangyi6.jpg
 excerpt_separator: <!--more-->

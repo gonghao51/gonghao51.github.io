@@ -2,7 +2,7 @@
 template: post
 title: "【艺述工人】工资太低？下次见到老板唱唱这首歌给他听"
 date: 2020-05-24
-tags: 
+tags: wenyi
 image:
   teaser: /202005/zhanggongzi.jpg
 excerpt_separator: <!--more-->

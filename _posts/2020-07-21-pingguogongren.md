@@ -2,7 +2,7 @@
 template: post
 title: "【国际风暴】华盛顿州数百名苹果工人举行罢工 | 转发"
 date: 2020-07-21
-tags: 
+tags: guoji
 image:
   teaser: /202007/pingguogongren1.jpg
 excerpt_separator: <!--more-->

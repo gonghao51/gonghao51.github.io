@@ -2,7 +2,7 @@
 template: post
 title: "【国际风暴】我们要做天下的主人：明尼阿波利斯市起义的五幕场"
 date: 2020-07-01
-tags: 
+tags: guoji
 image:
   teaser: /202007/minneapolis5.jpg
 excerpt_separator: <!--more-->

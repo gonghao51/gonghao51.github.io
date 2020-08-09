@@ -2,8 +2,8 @@
 template: post
 title: "【51锐评】活埋老母马某宽，我们谴责他又有什么用"
 date: 2020-05-16
-tags: 
-image:
+tags: shiping
+image: 
   teaser: /202005/shamushijian2.jpg
 excerpt_separator: <!--more-->
 ---

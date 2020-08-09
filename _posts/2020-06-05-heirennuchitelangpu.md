@@ -2,7 +2,7 @@
 template: post
 title: "【国际风暴】美国黑人怒斥特朗普：你们才是打劫者，暴力正是从你们身上学到的东西！"
 date: 2020-06-05
-tags: 
+tags: guoji
 image:
   teaser: /202006/heiren.jpg
 excerpt_separator: <!--more-->

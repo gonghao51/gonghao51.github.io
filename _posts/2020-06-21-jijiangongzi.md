@@ -2,7 +2,7 @@
 template: post
 title: "【打工秘籍】惨！连土都吃不起了，生存完全靠雾霾"
 date: 2020-06-21
-tags: 
+tags: miji
 image:
   teaser: /202006/jijiangongzi3.jpg
 excerpt_separator: <!--more-->

@@ -2,7 +2,7 @@
 template: post
 title: "【国际风暴】没钱交房租就要睡大街？看加拿大工人如何联合起来和房东斗争"
 date: 2020-06-14
-tags: 
+tags: guoji
 image:
   teaser: /202006/duolunduo3.jpg
 excerpt_separator: <!--more-->

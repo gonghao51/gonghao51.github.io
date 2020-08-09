@@ -2,7 +2,7 @@
 template: post
 title: "【51锐评】究竟是谁害死了21个生命？！"
 date: 2020-07-25
-tags: 
+tags: shiping
 image:
   teaser: /202007/gongjiaozhuihu6.jpg
 excerpt_separator: <!--more-->

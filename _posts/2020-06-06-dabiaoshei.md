@@ -2,7 +2,7 @@
 template: post
 title: "【打工仔看人大会议】靠！要是我早点关心政治，生活不至于如此苦逼！"
 date: 2020-06-06
-tags: 
+tags: shiping
 image:
   teaser: /202006/daibiaoshei12.jpg
 excerpt_separator: <!--more-->

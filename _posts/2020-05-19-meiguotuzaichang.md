@@ -2,8 +2,8 @@
 template: post
 title: "【国际风暴】美国屠宰场工人批量感染、死亡，特朗普命令工人继续上班"
 date: 2020-05-19
-tags: 
-image:
+tags: guoji
+image: 
   teaser: /202005/tuzaichang1.jpg
 excerpt_separator: <!--more-->
 ---

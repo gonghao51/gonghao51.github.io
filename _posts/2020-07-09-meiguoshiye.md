@@ -2,7 +2,7 @@
 template: post
 title: "【国际风暴】明明是你在坑我，别又说什么社会问题 "
 date: 2020-07-09
-tags: 
+tags: guoji
 image:
   teaser: /202007/meiguoshiye1.jpg
 excerpt_separator: <!--more-->

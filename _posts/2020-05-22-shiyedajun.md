@@ -2,8 +2,8 @@
 template: post
 title: "失业大军在征兵：多地工厂放假、裁员"
 date: 2020-05-22
-tags: 
-image:
+tags: gushi
+image: 
   teaser: /202005/shiyedajun1.jpg
 excerpt_separator: <!--more-->
 ---

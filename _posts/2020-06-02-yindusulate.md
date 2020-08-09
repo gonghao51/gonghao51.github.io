@@ -2,7 +2,7 @@
 template: post
 title: "【国际风暴】上千工人上街抗议——印度政府不考虑工人死活"
 date: 2020-06-02
-tags: 
+tags: guoji
 image:
   teaser: /202006/yindusulate1.jpg
 excerpt_separator: <!--more-->

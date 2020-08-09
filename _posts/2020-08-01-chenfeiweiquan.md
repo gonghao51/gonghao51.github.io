@@ -2,7 +2,7 @@
 template: post
 title: "【工友之声】尘肺工友多年坚持维权，到头被律师和公司联手坑 "
 date: 2020-08-01
-tags: 
+tags: gushi
 image:
   teaser: /202008/chenfei15.jpg
 excerpt_separator: <!--more-->
