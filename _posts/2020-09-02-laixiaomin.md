@@ -4,7 +4,7 @@ title: "【51锐评】100个情妇100套房？贪污17亿的国企高官凭的�
 date: 2020-09-02
 tags: shiping
 image:
-  teaser: /202009/laixiaomin12.jpg
+  teaser: /202009/laixiaomin12.webp
 excerpt_separator: <!--more-->
 ---
 
