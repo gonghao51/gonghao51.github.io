@@ -34,13 +34,12 @@ excerpt_separator: <!--more-->
 
 **大家可以通过两种方式给51提供自己的联系方式：**
 
->（1）复制下面的问卷链接，用浏览器打开，在表格里填上你的常用联系方式；或者点击文末的阅读原文打开问卷。
-> **问卷链接：**https://zfrmz.com/nUwfiGXvLUOjrfOh9a9B
+>（1）填这个问卷给我们留个联系方式：<a href="https://zfrmz.com/nUwfiGXvLUOjrfOh9a9B">https://zfrmz.com/nUwfiGXvLUOjrfOh9a9B</a>
 
 >（2）用自己的邮箱(qq邮箱，网易邮箱和安全邮箱都可以)给51的联络邮箱发一封邮件，标题随便写，qq号和电话号码可以写在邮箱内容里。
-> **我们的联络邮箱是：**gonghaobao@protonmail.com
+> **我们的邮箱：**gonghaobao@protonmail.com
 
-<div style="text-align:center;color:grey"><img src="/images/202008/fangshilian4.jpg" width="98%"></div><br>
+<div style="text-align:center;color:grey"><img src="/images/changyong/fangshilian.jpg" width="98%"></div><br>
 
 也许有朋友会担心信息安全，怕自己的联系方式被其他陌生人，甚至被警察知道。其实这个问题大可以放心。51用的问卷平台和邮箱都有使用加密，很难监控。大家给51的联系方式，是为了工人阶级的解放事业服务的，51一定会用最安全的方式保存。所以请大家放下顾虑，信任51，我们会用事实证明对得起大家的信任！
 
