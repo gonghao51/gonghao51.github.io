@@ -1,10 +1,10 @@
 ---
 template: post
-title: "【51锐评】法外之地看守所，受苦受难都有谁？"
-date: 2020-09-19
-tags: shiping
+title: "【打工秘籍】老板不让辞工，把警察喊来了对付我怎么办？"
+date: 2020-09-23
+tags: miji
 image:
-  teaser: /202009/kanshousuo1.jpg
+  teaser: /202009/miji-jingchalai1.png
 excerpt_separator: <!--more-->
 ---
 
