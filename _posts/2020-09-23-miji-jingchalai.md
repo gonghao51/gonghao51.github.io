@@ -10,8 +10,8 @@ excerpt_separator: <!--more-->
 
 <div style="width:98%;padding:10px;background-color:black;color:white;margin:0;"><strong>摘要：</strong>辞工不好辞，跟老板斗智斗勇，老板把警察喊来，这个时候该怎么办？​<br><br>
 
-<strong>辞工难系列</strong>
-<a href="https://gonghao51.github.io/2020/09/07/ruhecigong/">【打工秘籍】辞工辞不动，还得靠斗争</a><br><br>
+<strong>辞工难系列</strong><br>
+<a style="color:lightgrey" href="https://gonghao51.github.io/2020/09/07/ruhecigong/">【打工秘籍】辞工辞不动，还得靠斗争</a><br><br>
 </div><br>
 
 <div style="text-align:center"><h3>一、警察说我破坏生产秩序怎么办！？</h3></div>
