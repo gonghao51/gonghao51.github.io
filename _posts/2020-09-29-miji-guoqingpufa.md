@@ -4,7 +4,7 @@ title: "【打工秘籍】国庆八天假，老板克扣加班费怎么办？！
 date: 2020-09-29
 tags: miji
 image:
-  teaser: /202009/miji-guoqingpufa2.jpg
+  teaser: /202009/guoqingpufa2.jpg
 excerpt_separator: <!--more-->
 ---
 
@@ -13,11 +13,11 @@ excerpt_separator: <!--more-->
 
 今年国庆有点特别，中秋节刚好也是十月一号，**法定节假日连着有4天，10月1日至4日。人社部另外规定10月5日至8日为休息日**，其中两天是因为3日和4日本来就是休息日，还有两天是补休9月27日和10月10日的假（对，这两个周六都算补班，没有加班费了）。
 
-<div style="text-align:center;color:grey"><img src="/images/202009/miji-guoqingpufa0.gif" width="98%"></div><br>
+<div style="text-align:center;color:grey"><img src="/images/202009/guoqingpufa0.gif" width="98%"></div><br>
 
 网上很多消息吹得真好听，“前四天加班至少三倍工资！”“8天全部加班不补休至少可得1756元！”仿佛这八天里咱们躺着就能把钱赚。虽然51那几天肯定要加班的（工厂哪儿会给你休息那么久），打工多年的51可不会被这冲昏头脑。像我们厂，到现在还没通知放假时间，更没有说明工资方案。这是我们厂的常规操作了，五一、端午、中秋和国庆，从来都是放假前一天的下班前最后一刻通知放假时间，就是为了杀你个措手不及，连跟经理理论的时间都没有，最后不得不接受厂里的安排。
 
-<div style="text-align:center;color:grey"><img src="/images/202009/miji-guoqingpufa1.jpg" width="98%"></div><br>
+<div style="text-align:center;color:grey"><img src="/images/202009/guoqingpufa1.jpg" width="98%"></div><br>
 
 说到加班费，资产阶级的法律规定是很丰满：**国庆和中秋是国家法定节假日（国庆3天，中秋1天），这4天里上班，工厂本就应该支付我们3倍的工资，不得找任何借口逃避。**
 
@@ -67,7 +67,7 @@ excerpt_separator: <!--more-->
 
 就这样，本来十月份应该有四天法定节假日（或三倍工资）再加上四个休息日（或双倍工资），被资本家这么一搞，休息没怎么休息，也没见有什么加班费，还要没休没命地再干二十七天才能有休息。想到这里，51被月饼卡住了喉咙，越发感觉这“祖国的生日”真tm操蛋。
 
-<div style="text-align:center;color:grey"><img src="/images/202009/miji-guoqingpufa2.jpg" width="98%"></div><br>
+<div style="text-align:center;color:grey"><img src="/images/202009/guoqingpufa2.jpg" width="98%"></div><br>
 
 51不由得想起了刚出来打工时，自己还是个愣头青，自以为懂点法律了不起，一碰到厂里违法加班，要么就去跟经理理（chao）论（jia），要么就去劳动监察大队投诉，结果要么是直接被扫地出厂，要么是劳动局的人打电话到工厂里去，从此51被厂里各种穿小鞋。摔打两年之后51才明白，别说什么“白纸黑字”了，写在纸上的东西最不靠谱，个人斗争的结果往往是胳膊拧不过大腿。
 
