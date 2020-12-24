@@ -20,7 +20,7 @@ excerpt_separator: <!--more-->
 
 能不能分到，什么时候分到，其实也都是昌硕说了算。
 
-<div style="text-align:center"><img src="/images/202012/fanfeifuze1.jpg" width="90%"></div>
+<div style="text-align:center"><img src="/images/202012/fanfeisheifuze1.jpg" width="90%"></div>
 
 
 
@@ -71,7 +71,7 @@ excerpt_separator: <!--more-->
 
 和硕可以分26个亿给屁都没干的富豪股东，还好意思告诉我们，他没有钱付返费？
 
-<div style="text-align:center"><img src="/images/202012/fanfeifuze2.jpg" width="90%"></div>
+<div style="text-align:center"><img src="/images/202012/fanfeisheifuze2.png" width="90%"></div>
 
 
 
