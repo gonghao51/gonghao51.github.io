@@ -4,7 +4,7 @@ title: "12.25昌硕返费维权简报：返费一天比一天高，中介耍流�
 date: 2020-12-25
 tags: baoliao
 image:
-  teaser: /202012/changshuo1225-1.jpg
+  teaser: /202012/changshuo1225-0.png
 excerpt_separator: <!--more-->
 ---
 
@@ -93,13 +93,6 @@ excerpt_separator: <!--more-->
 昨天，一个25号早上8:30聚集到10号门的消息被误以为是昌硕的维权号召，导致很多工友迷惑，上海昌硕哪儿有10号门？实际上，这个通知是昆山世硕的工友们发出来的。
 
 世硕的工友们也被少算了返费：12000元降到10000元了！昌硕还想骗大家过去那边，世硕也同样不给返费，还去干嘛！可见这不是真的为了给工友们加班，而是为了分化工人。（世硕还是当时扔证件侮辱工人的工厂，把工人当做狗，谁还愿意去？！）
-
-<div style="text-align:center">
-<video width="320" height="240" controls>
-  <source src="/videos/changshuo1225-2.mp4" type="video/mp4">
-哎呀！你的浏览器不支持视频播放。
-</video>
-</div><br>
 
 <div style="text-align:center"><img src="/images/202012/changshuo1225-13.png" width="90%"></div>
 <div style="text-align:center"><img src="/images/202012/changshuo1225-14.png" width="90%"><br>世硕的维权信息没有写明厂名转到昌硕群里，今天早上有昌硕工友在到处找十号门吗？</div>
