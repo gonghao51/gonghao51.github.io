@@ -8,10 +8,10 @@ image:
 excerpt_separator: <!--more-->
 ---
 
-<!--more-->
-
 <div style="width:98%;padding:10px;background-color:black;color:white;margin:0;">前有昌硕裁员降返费，后有世硕无耻克扣工人的满期返费。昨天，数千工人在世硕园区内发起抗议，多人被特景殴打。今天工人还准备继续维权。<br><br>
 </div><br>
+
+<!--more-->
 
 9月5日，昆山世硕扔证件让员工弯腰从地上捡的视频被曝光，引起全国打工人的愤怒，工人纷纷用脚投票，离开了世硕。
 
