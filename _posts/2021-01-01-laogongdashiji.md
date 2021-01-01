@@ -1,7 +1,7 @@
 ---
 template: post
 title: "2020劳工大事记——资产阶级的猖狂和无产阶级的反抗"
-date: 2020-12-01
+date: 2021-01-01
 tags: guaishi
 image:
   teaser: /202101/dashiji11.jpg
