@@ -1,6 +1,6 @@
 ---
 template: post
-title: "扔证件工厂用高返费吸引工人后，打九折？！8000返费工维权，特景打人！"
+title: "扔证件工厂又惹事了？！8000返费工维权：返费一分不可扣，工人尊严不可辱！"
 date: 2021-01-01
 tags: shiping
 image:
@@ -8,9 +8,9 @@ image:
 excerpt_separator: <!--more-->
 ---
 
-<div style="width:98%;padding:10px;background-color:black;color:white;margin:0;"><strong>摘要：</strong>前有昌硕裁员降返费，后有世硕对工期已满的工人的返费打折。昨天，数千工人在世硕园区内抗议工厂无故扣工资，多人被特景殴打。今天工人还准备继续维权。<br><br>
+<!--more-->
 
-<strong>返费一分不可扣，工人尊严不可辱！</strong>
+<div style="width:98%;padding:10px;background-color:black;color:white;margin:0;">前有昌硕裁员降返费，后有世硕无耻克扣工人的满期返费。昨天，数千工人在世硕园区内发起抗议，多人被特景殴打。今天工人还准备继续维权。<br><br>
 </div><br>
 
 9月5日，昆山世硕扔证件让员工弯腰从地上捡的视频被曝光，引起全国打工人的愤怒，工人纷纷用脚投票，离开了世硕。
