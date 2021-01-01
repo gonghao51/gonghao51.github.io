@@ -24,7 +24,7 @@ excerpt_separator: <!--more-->
 
 正处于生产旺季的世硕怕订单搞不出来，就用高达1.6万的返费吸引一批新的工人来干活。现在那批为了补救生产，用高反费吸引来的8000来名工人打卡天数满了，世硕就出尔反尔，突然说返费要打九折！
 
-<div style="text-align:center;color:grey"><img src="/images/202009/shishuofanfeidazhe1.jpg" width="98%"><br>12月28日，为世硕服务的各派遣公司发出以上通知</div>
+<div style="text-align:center;color:grey"><img src="/images/202101/shishuofanfeidazhe1.jpg" width="98%"><br>12月28日，为世硕服务的各派遣公司发出以上通知</div>
 
 法律规定各种补贴和奖金都属于工资。返费（也叫求职补贴）就是工资的一部分。什么时候开始允许给工资打折的呢？今年<a href="/2020/10/25/fendouzhexieyi/">共享员工和华为的奋斗者协议</a>都已经被合法化了，现在还要允许公司随便给工资打折吗？！**这样工人还要活吗？！
 
@@ -33,11 +33,11 @@ excerpt_separator: <!--more-->
 
 上周昌硕给工人的返费打折的时候，借口是“工期未满”、“经济困难”。当时昌硕还鼓励工人去世硕支援。
 
-<div style="text-align:center;color:grey"><img src="/images/202009/shishuofanfeidazhe2.jpg" width="98%"></div>
+<div style="text-align:center;color:grey"><img src="/images/202101/shishuofanfeidazhe2.jpg" width="98%"></div>
 
 当昌硕的返费工奔着能拿到全额返费转移到世硕之后，世硕就突然宣布也要给返费打折，这次还是对工期已满的工友！工人们明明按照协议完成了规定的活，资本家怎么就可以随便违反协议，给工资打折呢？！
 
-<div style="text-align:center;color:grey"><img src="/images/202009/shishuofanfeidazhe3.jpg" width="98%"></div>
+<div style="text-align:center;color:grey"><img src="/images/202101/shishuofanfeidazhe3.jpg" width="98%"></div>
 
 **世硕工人的这次斗争不只是一次返费，几千块钱的问题（乘以8000就是几千万被世硕吞了），这是涉及到所有打工人的利益和尊严的问题！**
 
@@ -45,7 +45,7 @@ excerpt_separator: <!--more-->
 
 **如果这次世硕大摇大摆，肆无忌惮地给工资打折，工友们不能不能从他们手里夺回全额返费，打退资本家的进攻，这对于所有工人来说都是一个巨大悲剧。**现在世硕学昌硕，以后还会有鸿硕学世硕，资本家的胆子会越来越大，把工人的生存空间挤得越来越小。
 
-<div style="text-align:center;color:grey"><img src="/images/202009/shishuofanfeidazhe4.jpg" width="98%"></div>
+<div style="text-align:center;color:grey"><img src="/images/202101/shishuofanfeidazhe4.jpg" width="98%"></div>
 
 但世硕工人没有让人失望！今天，数千工人已经上街游行要返费！他们并没有被昌硕的卑鄙手段吓倒！他们没有签单，没有答应让世硕无缘无故扣他们的工资！当特景出动帮助厂方镇压人的时候，工人们没有退缩，他们挤到世硕家园里，把特景包围了，特景虽然打了人、抓了人，但没有打破工人的团结，他们的暴行只让工人更愤怒了！
 
