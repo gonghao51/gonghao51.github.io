@@ -17,7 +17,7 @@ excerpt_separator: <!--more-->
 
 <div style="text-align:center;color:grey">
 <video width="320" height="240" controls>
-  <source src="https://gonghao51.github.io/videos/kunshanshishuo1.mp4" type="video/mp4">
+  <source src="http://gonghao51.mypressonline.com/videos/kunshanshishuo1.mp4" type="video/mp4">
 哎呀！你的浏览器不支持视频播放。
 </video>
 </div>
@@ -51,42 +51,42 @@ excerpt_separator: <!--more-->
 
 <div style="text-align:center;color:grey">
 <video width="320" height="240" controls>
-  <source src="https://gonghao51.github.io/videos/shishuofanfeidazhe1.mp4" type="video/mp4">
+  <source src="http://gonghao51.mypressonline.com/videos/shishuofanfeidazhe1.mp4" type="video/mp4">
 哎呀！你的浏览器不支持视频播放。
 </video>
 </div>
 
 <div style="text-align:center;color:grey">
 <video width="320" height="240" controls>
-  <source src="https://gonghao51.github.io/videos/shishuofanfeidazhe2.mp4" type="video/mp4">
+  <source src="http://gonghao51.mypressonline.com/videos/shishuofanfeidazhe2.mp4" type="video/mp4">
 哎呀！你的浏览器不支持视频播放。
 </video>
 </div>
 
 <div style="text-align:center;color:grey">
 <video width="320" height="240" controls>
-  <source src="https://gonghao51.github.io/videos/shishuofanfeidazhe3.mp4" type="video/mp4">
+  <source src="http://gonghao51.mypressonline.com/videos/shishuofanfeidazhe3.mp4" type="video/mp4">
 哎呀！你的浏览器不支持视频播放。
 </video>
 </div>
 
 <div style="text-align:center;color:grey">
 <video width="320" height="240" controls>
-  <source src="https://gonghao51.github.io/videos/shishuofanfeidazhe4.mp4" type="video/mp4">
+  <source src="http://gonghao51.mypressonline.com/videos/shishuofanfeidazhe4.mp4" type="video/mp4">
 哎呀！你的浏览器不支持视频播放。
 </video>
 </div>
 
 <div style="text-align:center;color:grey">
 <video width="320" height="240" controls>
-  <source src="https://gonghao51.github.io/videos/shishuofanfeidazhe5.mp4" type="video/mp4">
+  <source src="http://gonghao51.mypressonline.com/videos/shishuofanfeidazhe5.mp4" type="video/mp4">
 哎呀！你的浏览器不支持视频播放。
 </video>
 </div>
 
 <div style="text-align:center;color:grey">
 <video width="320" height="240" controls>
-  <source src="https://gonghao51.github.io/videos/shishuofanfeidazhe6.mp4" type="video/mp4">
+  <source src="http://gonghao51.mypressonline.com/videos/shishuofanfeidazhe6.mp4" type="video/mp4">
 哎呀！你的浏览器不支持视频播放。
 </video>
 </div>
