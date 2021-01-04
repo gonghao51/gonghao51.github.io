@@ -4,11 +4,11 @@ title: "世硕工人维权最新进展！"
 date: 2021-01-04
 tags: baoliao
 image:
-  teaser: /202101/shishuofanfeidazhe0.jpg
+  teaser: /202101/shishuojianbao0.jpg
 excerpt_separator: <!--more-->
 ---
 
-<div style="width:98%;padding:10px;background-color:black;color:white;margin:0;">**返费一分不能少**，这依然是工友们的底线。返费作为补贴（求职补贴），构成了工人的法定工资，容不得资本家克扣。工人的尊严更容不得资产阶级侮辱！<br><br>
+<div style="width:98%;padding:10px;background-color:black;color:white;margin:0;"><strong>返费一分不能少</strong>，这依然是工友们的底线。返费作为补贴（求职补贴），构成了工人的法定工资，容不得资本家克扣。工人的尊严更容不得资产阶级侮辱！<br><br>
 </div><br>
 
 <!--more-->
