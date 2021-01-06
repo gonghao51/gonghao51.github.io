@@ -4,7 +4,7 @@ title: "世硕工人维权最新进展！"
 date: 2021-01-04
 tags: baoliao
 image:
-  teaser: /202101/shishuojianbao0.jpg
+  teaser: /202101/shishuojianbao0.png
 excerpt_separator: <!--more-->
 ---
 
