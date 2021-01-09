@@ -20,7 +20,7 @@ excerpt: "2020年的12月19日，为了索要入职前约定好的“返费”�
 
 然而，**为何要克扣10%的返费，世硕厂方却没有给出任何合理解释**。世硕的工人觉得，既然每一个工时都包含了自己的血汗，就一定要讨回100%的返费。在12月31日这天，他们将“世硕家园”（即招聘中心）堵得水泄不通，并高喊“还我返费，拒绝九折”的口号，向厂方讨要说法。之后，工人们又走上街头，打算游行到陆家镇政府寻求主持公道。
 
-<div style="text-align:center;color:grey"><img src="/images/202101/shishuogongren2.jpg" width="49%"><img src="/images/202101/shishuogongren3.jpg" width="49%"></div>
+<div style="text-align:center;color:grey"><img src="/images/202101/shishuogongren2.jpg" width="47%"><img src="/images/202101/shishuogongren3.jpg" width="47%"></div>
 
 然而，无论是游行途中的工人还是招聘中心内的工人，都没有等到公道，反而是遭到了特警的驱逐和抓捕。但压迫只能让工人更加愤怒，他们相互约定要斗争到底，不断地在快手、抖音、微博上发布维权现场的视频，建立了一个又一个维权群。
 
