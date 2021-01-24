@@ -37,9 +37,9 @@ excerpt: ""
 
 周四，该联盟发表了一封由来自超过34个国家的401名政治人物签署的公开信，其中包括美国密歇根州左派众议员拉希达·特莱布（Rashida Tlaib）、明尼苏达州司法部长基思·埃里森（Keith Ellison）和美国纽约州左派众议员贾马尔·鲍曼（Jamaal Bowman），以示声援。他们在这封公开信中承诺支持 "让亚马逊偿还"联盟的工作，这封信是写给贝佐斯的。信的开头写道：“我们，来自世界各地的民选代表、议员和政府官员，特此通知你们，亚马逊逍遥法外的日子已经结束了。”
 
-<div style="text-align:center;color:grey"><img src="/images/202101/makeamazonpay1.jpg" width="98%"><br>图2：运输工人在亚马逊位于澳大利亚悉尼的亚马逊仓库外举行抗议</div><br>
+<div style="text-align:center;color:grey"><img src="/images/202101/makeamazonpay2.jpg" width="98%"><br>图2：运输工人在亚马逊位于澳大利亚悉尼的亚马逊仓库外举行抗议</div><br>
 
-<div style="text-align:center;color:grey"><img src="/images/202101/makeamazonpay1.jpg" width="98%"><br>图3：制衣工人在11月27日聚集在孟加拉国达卡的街道上</div><br>
+<div style="text-align:center;color:grey"><img src="/images/202101/makeamazonpay3.jpg" width="98%"><br>图3：制衣工人在11月27日聚集在孟加拉国达卡的街道上</div><br>
 
 显而易见，亚马逊太强大了，它谎报碳排放量，它恐吓工人，降低工资，破坏工会，确保工作的不稳定。该公司交的税也很少，2019年，亚马逊仅为其在美国赚的利润交了1.2%的联邦税；在17和18年，它没有支付任何税款。很难知道一次能够成功打击亚马逊霸权的跨国联合抵抗会是什么样子。
 
@@ -59,7 +59,7 @@ excerpt: ""
 
 亚马逊在全球范围内应用这种策略。“新冠疫情真的让工人很受伤。”仓库工人资源中心的主任Sheheryar Kaoosji说，（译注：仓库工人资源中心是美国加州安大略市的一家服务仓库工人的劳工机构）“疫情下的失业率暴涨带来了很多急切寻找工作的人。我们必须在工人所在的地方满足他们的需求，以建立一个长期战略。”Kaoosji在圣贝纳迪诺及其周边地区进行组织，亚马逊最大的设施群之一正在那里扩张。该公司仅在此地区就雇佣了3万名员工；亚马逊占领地区的哮喘病发病率是全国平均水平的两倍。“今年是亚马逊真正增强力量的一年”。Kaoosji说，他提出，这使得工人们组织起来的必要性更强。“现在是做这件事的正确时机。”
 
-<div style="text-align:center;color:grey"><img src="/images/202101/makeamazonpay1.jpg" width="98%"><br>图4：德国的亚马逊工人11月27日在工会的组织下举行罢工</div><br>
+<div style="text-align:center;color:grey"><img src="/images/202101/makeamazonpay4.jpg" width="98%"><br>图4：德国的亚马逊工人11月27日在工会的组织下举行罢工</div><br>
 
 “让亚马逊偿还”联盟的政策平台的关键倡导之一，是规范亚马逊向工人提供的劳动合同，比如提高公司使用自雇合同的成本，使其减少使用。这些不稳定的合同在新自由主义的劳动力市场上已经常态化，如果针对亚马逊的劳动合同进行监管，将对整个劳工权益的保护产生连锁反应。
 
@@ -77,9 +77,9 @@ excerpt: ""
 
 在9月亚马逊被揭露对美国、英国和其他地方试图组织起来的工人进行广泛的监视、骚扰和恐吓之后，国际特赦组织发布了一份报告，呼吁亚马逊 “让工人成立工会”。报告还列举了法国的工会和法规如何在疫情期间起到保护亚马逊工人的作用。这家企业巨头应该好好想想这种对其权力的限制，以及它自己在每一个国家经营时的侵权行为了。
 
-<div style="text-align:center;color:grey"><img src="/images/202101/makeamazonpay1.jpg" width="98%"><br>图5：“进步国际”的成员在墨西哥首都街头喷上“让亚马逊偿还”的标志</div>
+<div style="text-align:center;color:grey"><img src="/images/202101/makeamazonpay5.jpg" width="98%"><br>图5：“进步国际”的成员在墨西哥首都街头喷上“让亚马逊偿还”的标志</div>
 
-<div style="text-align:center;color:grey"><img src="/images/202101/makeamazonpay1.jpg" width="98%"><br>图6：“让亚马逊偿还”的标志被投影在亚马逊英国伦敦办公楼的外墙上</div><br>
+<div style="text-align:center;color:grey"><img src="/images/202101/makeamazonpay6.jpg" width="98%"><br>图6：“让亚马逊偿还”的标志被投影在亚马逊英国伦敦办公楼的外墙上</div><br>
 
 在美国新总统拜登的总统任期，立法机构和司法机构仍然掌握在极右翼的大财团手中，这无法为摆脱新自由主义模式的激进立法转变提供足够保证。像特莱布这样由工人选出来的左派议员只是少数。然而，认为亚马逊需要被遏制的观点在民众中是受欢迎的。民意调查机构Survation发现，70%的人认为亚马逊的权力太大了。
 
