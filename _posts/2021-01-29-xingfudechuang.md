@@ -5,7 +5,7 @@ date: 2021-01-29
 tags: wenyi
 image:
   teaser: /202101/xingfudechuang.png
-excerpt: "2020.12.31在全面进入小康社会的前一天，一个叫墨茶Offical的00后，因饥饿和疾病死于负责人大国的一隅，死于资本的秩序，死于被资本秩序了的家庭。"
+excerpt: "2020.12.31在全面进入小康社会的前一天，一个叫墨茶Offical的年轻人，因饥饿和疾病死于负责任大国的一隅，死于资本的秩序，死于被资本秩序了的家庭。"
 ---
 
 <div style="width:98%;padding:10px;background-color:black;color:white;margin:0;">2020.12.31在全面进入小康社会的前一天，一个叫墨茶Offical的00后，因饥饿和疾病死于负责人大国的一隅，死于资本的秩序，死于被资本秩序了的家庭。<br><br>
@@ -66,8 +66,8 @@ excerpt: "2020.12.31在全面进入小康社会的前一天，一个叫墨茶Off
 <img src="/images/202101/mocha2.jpg" width="98%">
 </div><br><br>
 
-<div style="text-align:center;width:98%;padding:10px;background-color:lightblue;margin:0;"><h3>作者介绍</h3><br><br>
-<strong>路石：</strong>打工人。干过煤矿、做过建筑、送过报纸。喜欢诗歌。为工人写诗，为阶级做歌。
+<div style="text-align:center;width:98%;padding:10px;background-color:lightblue;margin:0;"><h3>作者介绍</h3><br>
+<strong>路石：</strong>打工人。干过煤矿、做过建筑、送过报纸。喜欢诗歌。为工人写诗，为阶级做歌。<br><br>
 </div><br>
 
 
