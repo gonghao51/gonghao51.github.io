@@ -8,7 +8,7 @@ image:
 excerpt: "2020.12.31在全面进入小康社会的前一天，一个叫墨茶Offical的年轻人，因饥饿和疾病死于负责任大国的一隅，死于资本的秩序，死于被资本秩序了的家庭。"
 ---
 
-<div style="width:98%;padding:10px;background-color:black;color:white;margin:0;">2020.12.31在全面进入小康社会的前一天，一个叫墨茶Offical的00后，因饥饿和疾病死于负责人大国的一隅，死于资本的秩序，死于被资本秩序了的家庭。<br><br>
+<div style="width:98%;padding:10px;background-color:black;color:white;margin:0;">2020.12.31在全面进入小康社会的前一天，一个叫墨茶Offical的年轻人，因饥饿和疾病死于负责人大国的一隅，死于资本的秩序，死于被资本秩序了的家庭。<br><br>
 </div><br>
 
 <div style="text-align:center;color:grey">
