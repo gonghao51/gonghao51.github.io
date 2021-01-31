@@ -49,8 +49,7 @@ excerpt: "给51多留几个联系方式，保持联系不断开！"
 
 大家可以通过以下方式给51提供自己的多个联系方式：
 
-【1】填这个问卷给我们留个联系方式：https://zfrmz.com/lUr5cek7wNGXduGSkMcJ
-
+【1】填这个问卷给我们留个联系方式：<a href="https://zfrmz.com/lUr5cek7wNGXduGSkMcJ">https://zfrmz.com/lUr5cek7wNGXduGSkMcJ</a>
 
 【2】用自己的邮箱(qq邮箱，网易邮箱和安全邮箱都可以)给51的联络邮箱发一封邮件，标题随便写，qq号和电话号码可以写在邮箱内容里。我们的邮箱：gonghaobao@protonmail.com
 
