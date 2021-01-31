@@ -13,7 +13,7 @@ excerpt: "等一个月才发放工资？社保不退？绝对不可以！"
 
 各位昌硕世硕的老铁们，还有不到两个星期就要过年了！最近昌硕世硕正在出年前最后一批名单，很多工友在群里打听离职和社保的问题。51把群里的消息做了整理，并附上《劳动法》《劳动合同法》相关规定，希望能帮到大家顺利离职并拿回社保费。
 
-<div style="text-align:center;background-color:blue;color:white">一、离职有关问题</div>
+<div style="text-align:center;background-color:blue;color:white"><h3>一、离职有关问题</h3></div>
 
 大家都是奔着返费来的，领教过昌硕世硕前不久坑害我们打工人的阴险操作后，大多数人都是准备返费一到手，收拾铺盖走！但是很多兄弟姐妹都会遇到一个情况，那就是**劳务和厂子不给批离职！**
 
@@ -150,11 +150,11 @@ excerpt: "等一个月才发放工资？社保不退？绝对不可以！"
 
 <div style="text-align:center;color:grey"><img src="/images/202101/heshuolizhi5.jpg" width="98%"></div>
 
-<div style="text-align:center;color:grey"><img src="/images/202101/heshuolizhi6.jpg" width="98%"></div>
+<div style="text-align:center;color:grey"><img src="/images/202101/heshuolizhi6.jpg" width="98%"></div><br>
 
 
 
-<div style="text-align:center;background-color:blue;color:white">二、社保退费有关问题</div>
+<div style="text-align:center;background-color:blue;color:white"><h3>二、社保退费有关问题</h3></div>
 
 社保又称为五险一金，是养老保险、医疗保险、工伤保险、失业保险、生育保险以及住房公积金，由个人和厂方共同缴纳，但是受益的是我们工人，是我们应得收入的一部分，也是一种生存的保障。用人单位或用工单位不缴纳社保，是违法行为。
 
@@ -202,7 +202,7 @@ excerpt: "等一个月才发放工资？社保不退？绝对不可以！"
 
 
 
-<div style="text-align:center;background-color:blue;color:white">三、结语</div>
+<div style="text-align:center;background-color:blue;color:white"><h3>三、结语</h3></div>
 
 昌硕世硕这一批名单出得准时，这是之前兄弟姐妹们斗争的成果，但是无论是昌硕还是世硕，对于工期满了的工友，依然返费打九折或者扣一千，根本没有按照之前公布的方案来执行。很快就要过年了，回家能够休息一段时间，但是我们开年依然要外出打工，只要打工，我们的斗争就还会继续！我们工人只有团结，才有出路！欢迎大家加51小编，把你了解的信息爆料给我们！
 
