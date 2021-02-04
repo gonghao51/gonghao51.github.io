@@ -4,7 +4,7 @@ title: "51收到通知，写时事评论需要申请“许可证”！"
 date: 2021-02-04
 tags: shiping
 image:
-  teaser: /202102/xinwenxukezheng.jpg
+  teaser: /202102/xinwenxukezheng1.jpg
 excerpt: "这里有一份来自有关部门的贴心指导 "
 ---
 
