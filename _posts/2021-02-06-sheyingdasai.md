@@ -24,29 +24,29 @@ excerpt: "获得票数最多的前5名参赛者，就能够获得我们的51春�
 
 评选规则很简单，“群众的眼睛是雪亮的”，获得工友们、51的读者们票数最多的前5名参赛者，就能够获得我们的51春节摄影奖！
 
-<div style="text-align:center;width:98%;padding:10px;background-color:lightblue;margin:0;"><h3>比赛奖品:</h3><br><br>
+<div style="text-align:center;width:98%;padding:10px;background-color:lightblue;margin:0;"><h4>比赛奖品:</h4><br>
 5位获奖者将获得以下奖品：<br>
 1、51元微信红包奖励<br>
-2、51画师专门画的一张头像
+2、51画师专门画的一张头像<br><br>
 </div><br>
 
-<div style="text-align:center;width:98%;padding:10px;background-color:lightblue;margin:0;"><h3>投稿者必须提供：</h3><br><br>
+<div style="text-align:center;width:98%;padding:10px;background-color:lightblue;margin:0;"><h4>投稿者必须提供：</h4><br>
 1、一张自己今年拍的照片<br>
 2、自己的笔名<br>
 3、作品的名字（用心起名哦！）<br>
-4、一段不超过100字的文字，解释为什么拍这张照片，这张照片讲述了一个什么样的故事。
+4、一段不超过100字的文字，解释为什么拍这张照片，这张照片讲述了一个什么样的故事。<br><br>
 </div><br>
 
-<div style="text-align:center;width:98%;padding:10px;background-color:lightblue;margin:0;"><h3>投稿方式：</h3><br><br>
+<div style="text-align:center;width:98%;padding:10px;background-color:lightblue;margin:0;"><h4>投稿方式：</h4><br>
 1、加51小编（加微信号GR_xiaohe1996或文章底部扫码），或<br>
-2、发到51的投稿邮箱：gonghao52@protonmail.com
-</div><br>
+2、发到51的投稿邮箱：gonghao52@protonmail.com<br><br>
+</div><br><br><br>
 
-<div style="text-align:center;width:98%;padding:10px;background-color:lightblue;margin:0;"><h3>活动时间表：</h3><br><br>
+<div style="text-align:center;width:98%;padding:10px;background-color:lightblue;margin:0;"><h4>活动时间表：</h4><br>
 <strong>作品征集：</strong>2021年2月6日至2月17日（大年初六）中午12：00<br>
 <strong>线上摄影教学：</strong>2月14日（大年初三）晚上8：00<br>
 <strong>公开投票：</strong>2月17日20：00至2月20日（周六）中午12：00<br>
-<strong>结果揭晓：</strong>2月20日（周六）晚上8：30公布投票结果，欢迎大家当晚到51群里讨论摄影技巧和今年的最佳照片
+<strong>结果揭晓：</strong>2月20日（周六）晚上8：30公布投票结果，欢迎大家当晚到51群里讨论摄影技巧和今年的最佳照片<br><br>
 </div><br>
 
 <div style="text-align:center"><h3>拍照技巧大礼包</h3></div>
