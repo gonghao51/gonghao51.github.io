@@ -37,7 +37,7 @@ excerpt: "51的春节摄影大赛已开始征集作品了！今天为大家准�
 
 <div style="text-align:center;color:grey">
 <video width="320" height="240" controls>
-  <source src="http://gonghao51.mypressonline.com/videos/sheyingbazhao.mp4" type="video/mp4">
+  <source src="http://211.152.148.13/om.tc.qq.com/Arlqa4LDL43rDc8fSPPPs0UtbQNPPasFRwjzimSUWUK4/uwMROfz2r5zBIaQXGdGnC2dfJ6nAzEoO290Tsw9-2jpi_xWl/a0892jodsf0.p701.1.mp4?vkey=DD9657734FFC498AD5E983A17F9BCCE89A10F6ECBEF90677BC21F931C727D912CD54FD659A281BC7D23964B0DFB72452C302BD1F03595811A2E075952CD56A45662BEFA90D04B51AD72E7666782D5962D681FA4337B410A4D0DD6B2418E0599E52E2DE0551D09CED986F4C0F242A7213" type="video/mp4">
 哎呀！你的浏览器不支持视频播放。
 </video>
 </div>
