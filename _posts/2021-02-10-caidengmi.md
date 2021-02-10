@@ -1,22 +1,22 @@
 ---
 template: post
-title: "彩灯谜，抢红包，51邀你线上过大年！"
+title: "猜灯谜，抢红包，51邀你线上过大年！"
 date: 2021-02-10
 tags: 
 image:
-  teaser: /202102/
+  teaser: /202102/20210210caidengmi1.jpg
 excerpt: "大年初一晚八点半，赶紧加小编进群吧～"
 ---
 
 各位工友，各位读者们，2021牛年新春即将到来，51给大家拜年了！
 
-<div style="text-align:center;color:grey"><img src="/images/202102/caidengmi1.jpg" width="98%"></div>
+<div style="text-align:center;color:grey"><img src="/images/202102/20210210caidengmi1.jpg" width="98%"></div>
 
 想起2020年春节，我们被突如其来的疫情困在家乡，而今年的春节，我们很多人则是被政府各种费钱费事的手续挡住了回乡的路。
 
 不过没关系，51准备了一场有趣好玩的猜灯谜活动，邀请各位工友一起过大年！
 
-<div style="text-align:center;color:grey"><img src="/images/202102/caidengmi2.jpg" width="98%"></div>
+<div style="text-align:center;color:grey"><img src="/images/202102/20210210caidengmi2.jpg" width="98%"></div>
 
 <div style="text-align:center;width:98%;padding:10px;background-color:lightred;margin:0;"><h4>51线上猜灯谜活动：</h4><br>
 <br>
