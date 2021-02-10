@@ -31,7 +31,7 @@ excerpt: "大年初一晚八点半，赶紧加小编进群吧～"
 <div style="text-align:center;width:98%;padding:10px;background-color:lightblue;margin:0;"><h4>提前剧透两个，大家猜猜看：</h4><br>
 工人团结紧，干劲冲破天（打一字）<br><br>
 提桶跑路（打一颜色）<br><br>
-</div>
+</div><br>
 
 <div style="text-align:center;color:grey"><img src="/images/202102/20210210caidengmi3.jpg" width="98%"></div>
 
