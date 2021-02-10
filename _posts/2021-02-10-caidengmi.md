@@ -8,7 +8,7 @@ image:
 excerpt: "大年初一晚八点半，赶紧加小编进群吧～"
 ---
 
-各位工友，各位读者们，2021牛年新春即将到来，51给大家拜年了！
+各位工友，各位读者们，2021牛年新春即将到来，51给大家拜年了！祝各位工友身体健康，愿更多工友能加入到我们的队伍中来！
 
 <div style="text-align:center;color:grey"><img src="/images/202102/20210210caidengmi1.jpg" width="98%"></div>
 
@@ -32,6 +32,8 @@ excerpt: "大年初一晚八点半，赶紧加小编进群吧～"
 工人团结紧，干劲冲破天（打一字）<br><br>
 提桶跑路（打一颜色）<br><br>
 </div>
+
+<div style="text-align:center;color:grey"><img src="/images/202102/20210210caidengmi3.jpg" width="98%"></div>
 
 你知道答案吗？
 
