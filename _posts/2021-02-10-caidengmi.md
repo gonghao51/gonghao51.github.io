@@ -38,3 +38,4 @@ excerpt: "大年初一晚八点半，赶紧加小编进群吧～"
 提醒一下，我们还有一个春节拍照比赛喔。不需要你有专业的摄影技巧，只需要你讲出照片里的工人故事～ [点此查看活动详情](https://cbgc.scol.com.cn/news/462061)
 
 <div style="text-align:center;color:grey"><img src="/images/202102/20210210chunjiesheyingdasai.jpg" width="98%"></div>
+
