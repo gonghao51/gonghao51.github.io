@@ -4,7 +4,7 @@ title: "猜灯谜，抢红包，51邀你线上过大年！"
 date: 2021-02-10
 tags: 
 image:
-  teaser: /202102/20210210caidengmi1.jpg
+  teaser: /202102/20210210caidengmi2.jpg
 excerpt: "大年初一晚八点半，赶紧加小编进群吧～"
 ---
 
