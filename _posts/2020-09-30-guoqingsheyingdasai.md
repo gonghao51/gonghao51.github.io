@@ -5,7 +5,7 @@ date: 2020-09-30
 tags: 
 image:
   teaser: /202009/hechushiwojia.jpg
-excerpt_separator: <!--more-->
+excerpt:"这个中秋节，51不想谈乡愁，而想谈谈为什么咱们工人在城里劳动，为城市建设贡献了半辈子的劳动力，却没法在城市里安家落户？为了听见工友们的心声，51这个中秋节要组织一场比赛，邀请你用拍照回应以下的问题！活动细节请继续往下看。"
 ---
 
 <div style="width:98%;padding:10px;background-color:black;color:white;margin:0;"><strong>摘要：</strong>有奖哦！​<br><br>
