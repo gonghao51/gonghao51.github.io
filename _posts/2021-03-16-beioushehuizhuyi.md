@@ -4,7 +4,7 @@ title: "北欧是社会主义吗？"
 date: 2021-03-16
 tags: 
 image:
-  teaser: /202103/beiou3.jpg
+  teaser: /202103/beiou2.jpg
 excerpt: ""
 ---
 
