@@ -4,17 +4,23 @@ title: "印度的农民运动，何去何从？"
 date: 2021-03-20
 tags: 
 image:
-  teaser: /202103/beiou2.jpg
+  teaser: /202103/yindunongmin2.jpg
 excerpt: ""
 ---
 
-编者按：2021年3月，印度的农民抗议已经进入第五个月。农民在德里边界占领的阵地，他们轮流守护至今，政府不撤法案，农民坚持不撤离。漫长的印度农民斗争近期离开了公众视野，但是农民的运动没有停止，农民甚至还发起了自己的斗争报纸，这场农民运动也起到巩固其他反资本反私有化斗争的作用。前几天，3月15日，印度全国银行员工发起了两天的罢工抗议银行私有化提案，农民组织也是全国各地抗议游行的重要参与者。这场斗争无疑提高了印度农民的政治化程度，但这场庞大的斗争貌似已经拖下去很久了，印度的农民运动何去何从呢？能逼政府妥协，能进一步深化印度的阶级矛盾，激化阶级斗争吗？为了回答这个问题，51今天回到斗争的初期，翻译了一片分析印度农民生存和斗争状况的文章。
+<div style="width:98%;padding:10px;background-color:black;color:white;margin:0;"><strong>编者按：</strong>2021年3月，印度的农民抗议已经进入第五个月。农民在德里边界占领的阵地，他们轮流守护至今，政府不撤法案，农民坚持不撤离。漫长的印度农民斗争近期离开了公众视野，但是农民的运动没有停止，农民甚至还发起了自己的斗争报纸，这场农民运动也起到巩固其他反资本反私有化斗争的作用。前几天，3月15日，印度全国银行员工发起了两天的罢工抗议银行私有化提案，农民组织也是全国各地抗议游行的重要参与者。这场斗争无疑提高了印度农民的政治化程度，但这场庞大的斗争貌似已经拖下去很久了，印度的农民运动何去何从呢？能逼政府妥协，能进一步深化印度的阶级矛盾，激化阶级斗争吗？为了回答这个问题，51今天回到斗争的初期，翻译了一片分析印度农民生存和斗争状况的文章。<br><br>
+</div><br>
 
-<div style="text-align:center;color:grey"><img src="http://gonghao51.mypressonline.com/images/202103/yindunongmin1.jpg" width="98%"><br>3月6日，印度农民仍在坚持占领德里边界地区</div><br>
+
+<div style="text-align:center;color:grey"><img src="/images/202103/yindunongmin1.jpg" width="98%"><br>3月6日，印度农民仍在坚持占领德里边界地区</div><br>
 
 原文：<a href="https://www.marxist.com/india-agriculture-bills-2020.htm">India: farmers rise up against reactionary agriculture bills</a>
+
 *Arsalan Ghani，维护马克思主义网（In Defence of Marxism）*
+
 *2020年10月23日*
+
+
 
 2020年9月20日，印度政府在议会通过了三项反动的农业法案；几天后，印度的农民发动了一场抗议运动。这篇文章将探讨农业法案、印度农民的斗争、农业的资本主义无政府状态以及前方的革命道路。
 
@@ -29,7 +35,7 @@ excerpt: ""
 9月29日，来自31个农民组织的代表与Amarinder Singh会面，这个旁遮普邦的首席部长除了空洞的言语以外，没有带来任何东西，只说会把情况上报到最高法院。听完了首席部长的这个不靠谱的发言之后，农民决定团结在“全印农民斗争协调委员会”（AIKSCC，一个全国性的农民组织）的旗帜下，自2020年10月起升级他们的斗争。AIKSCC决定，拒绝所有与政府进行对话的提议，除非法案被撤回。他们计划在11月完全封锁国家的首都德里。AIKSCC领导层声明，他们将会继续斗争，不管有没有来自任何主流党派的政治支持。
 
 
-<div style="text-align:center;color:grey"><img src="http://gonghao51.mypressonline.com/images/202103/yindunongmin2.jpg" width="98%"><br>印度农民12月在德里边界的抗议活动</div><br>
+<div style="text-align:center;color:grey"><img src="/images/202103/yindunongmin2.jpg" width="98%"><br>印度农民12月在德里边界的抗议活动</div><br>
 
 ### 农民为什么抗议？
 
@@ -40,7 +46,7 @@ excerpt: ""
 这不是印度政府第一次试图将印度农业引向自由化。此前，在国大党连续执政期间，也有类似的尝试。前几任政府连续多年在自由化上花费的工夫，已经让农民陷入这样的恶性循环：耕作成本上涨，农产品产量高度不确定，农产品价格压低，负债增加，并且缺少现代农业技术，这些我们稍后会进行解释。
 
 
-<div style="text-align:center;color:grey"><img src="http://gonghao51.mypressonline.com/images/202103/yindunongmin3.jpg" width="98%"><br>印度农民在喊口号</div><br>
+<div style="text-align:center;color:grey"><img src="/images/202103/yindunongmin3.jpg" width="98%"><br>印度农民在喊口号</div><br>
 
 ### 过去的农民抗议
 
@@ -50,9 +56,9 @@ excerpt: ""
 
 年复一年，这些孤立斗争的失败迫使农民重新考虑并升级他们的行动。我们最近所看到的，是高度协调且规模巨大的抗议和行动遍布整个国家。然而，抗议的参与者当中，仍然有人抱有这样的希望：国家、议会、司法机关能够倾听他们的抱怨并满足他们的诉求。但是，现实是，在这个危机四伏的资本主义体系当中，农民的状况不会改善。
 
-<div style="text-align:center;color:grey"><img src="http://gonghao51.mypressonline.com/images/202103/yindunongmin4.jpg" width="98%"></div>
+<div style="text-align:center;color:grey"><img src="/images/202103/yindunongmin4.jpg" width="98%"></div>
 
-<div style="text-align:center;color:grey"><img src="http://gonghao51.mypressonline.com/images/202103/yindunongmin5.jpg" width="98%"><br>农民运动的图书馆和斗争报纸《小拖车报》</div><br>
+<div style="text-align:center;color:grey"><img src="/images/202103/yindunongmin5.jpg" width="98%"><br>农民运动的图书馆和斗争报纸《小拖车报》</div><br>
 
 
 ### 印度的农业状况
@@ -67,9 +73,9 @@ excerpt: ""
 
 农民不满的另一个主要因素是，他们的收入跟不上持续增长的生活开销。在资本主义环境下，农业供应链上每个位置的投机商都尽可能地从农民身上榨取价值。而且，深陷在债务不断累积的重复循环当中的农民，发现他们的辛勤劳动一文不值。农产品市场当中的投机商总是试图确保农民从他们的产品中一无所获。放贷者也通过向农民放贷，来从农民身上赚钱。昂贵的农资、异化、债务以及中间商的奴役，这些因素产生的不满使农民陷入绝望，迫使他们进行抗议。
 
-<div style="text-align:center;color:grey"><img src="http://gonghao51.mypressonline.com/images/202103/yindunongmin6.jpg" width="98%"></div>
+<div style="text-align:center;color:grey"><img src="/images/202103/yindunongmin6.jpg" width="98%"></div>
 
-<div style="text-align:center;color:grey"><img src="http://gonghao51.mypressonline.com/images/202103/yindunongmin7.jpg" width="98%"><br>印度每个月有1000多农民因为债务自杀</div><br>
+<div style="text-align:center;color:grey"><img src="/images/202103/yindunongmin7.jpg" width="98%"><br>印度每个月有1000多农民因为债务自杀</div><br>
 
 
 ### 三项农业法案：好的，坏的，丑的
@@ -82,7 +88,7 @@ excerpt: ""
 
 法案鼓励农民把他们的产品卖给他们想卖的任何一个人，表面上给人的印象是政府想要解放农民、赋权给农民。然而，法案只对那些大的竞争者有好处，他们有能力垄断价格，将支付给农民的价格压低，确保农民什么都得不到，同时又迫使普通人在购买农产品时付更多的钱。2020年全球饥饿指数排行榜一共107个国家当中，印度排第94位，三分之一的人口遭受着营养不良的痛苦，在这样的一个国度，像这样的政策将会导致又一个人造饥荒。
 
-<div style="text-align:center;color:grey"><img src="http://gonghao51.mypressonline.com/images/202103/yindunongmin8.jpg" width="98%"></div>
+<div style="text-align:center;color:grey"><img src="/images/202103/yindunongmin8.jpg" width="98%"></div>
 
 
 ### 资本主义的无政府状态
@@ -106,7 +112,7 @@ Appachi|泰米尔纳德邦|棉花
 
 印度储备银行的数据显示，在过去十年里，印度在农业领域得到了2460亿美元的外资直接投资。去年，仅外资直接投资一项，即构成了印度农业总GDP的四分之一。有了农业法案，农民在和大公司的对抗中，就无法从民事法庭得到法律的支持。可以预期，大资本家将会就未来10至20年的农产品与农民进行直接交易，从而使得投机市场的大门完全敞开。
 
-<div style="text-align:center;color:grey"><img src="http://gonghao51.mypressonline.com/images/202103/yindunongmin9.jpg" width="98%"><br>印度农民背后有很多嘲讽总统莫迪的海报</div>
+<div style="text-align:center;color:grey"><img src="/images/202103/yindunongmin9.jpg" width="98%"><br>印度农民背后有很多嘲讽总统莫迪的海报</div>
 
 
 ### 主流政治的破产
@@ -144,11 +150,13 @@ Appachi|泰米尔纳德邦|棉花
 
 只有推翻这个嗜血的资本主义体系，代之以工人的国度，我们才能终止资本家对印度农业和工业的控制。社会主义计划经济将会终结银行、公司和跨国企业的权力。工人的国度除了会向农民提供食物、衣服和住所，还会提供免费的医疗和教育。只有在社会主义计划经济下，农民的贷款才会永远被百分之百地豁免，农民才有能力决定他们自己的命运。需要的是阶级斗争，而印度的工人阶级需要迈出决定性的一步，以布尔什维克主义为基础，在革命的路线上将自己组织起来，赢得这场斗争的胜利。
 
-<div style="text-align:center;color:grey"><img src="http://gonghao51.mypressonline.com/images/202103/yindunongmin10.jpg" width="98%"><br>印度农民坐着拖拉机进入德里</div><br>
+<div style="text-align:center;color:grey"><img src="/images/202103/yindunongmin10.jpg" width="98%"><br>印度农民坐着拖拉机进入德里</div><br>
 
 
 [1] 译者注：“邦”是印度最高一级地方行政单位，类似于中国一个省。旁遮普邦位于印度西部，与巴基斯坦接壤；孟加拉邦，正式的名称为“西孟加拉邦”，位于印度东部，与孟加拉国接壤；比哈尔邦位于印度北部，与尼泊尔接壤；泰米尔纳德邦位于印度南部，隔海与斯里兰卡相望。
+
 [2] 译者注：法案的译名采用了观察者网的译名。
+
 [3] 译者注：团结进步联盟，也译作“联合进步联盟”，缩写为UPA，是印度国大党参与的政党联盟。
 
 
