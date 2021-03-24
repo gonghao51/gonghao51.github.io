@@ -26,7 +26,7 @@ excerpt: ""
 
 <h3>1. 0577</h3>
 
-<div style="text-align:center;color:grey"><img src="/images/202102/chunjiesheying1.jpg" width="98%"></div><br>
+<div style="text-align:center;color:grey"><img src="/images/202102/chunjiesheying1.jpg" width="98%"></div>
 
 作者：冬生
 
@@ -34,7 +34,7 @@ excerpt: ""
 
 <h3>2. 厨师</h3>
 
-<div style="text-align:center;color:grey"><img src="/images/202102/chunjiesheying2.jpg" width="98%"></div><br>
+<div style="text-align:center;color:grey"><img src="/images/202102/chunjiesheying2.jpg" width="98%"></div>
 
 作者：黎计划
 
@@ -42,13 +42,13 @@ excerpt: ""
 
 <h3>3. 冬夜中的女环卫工</h3>
 
-<div style="text-align:center;color:grey"><img src="/images/202102/chunjiesheying3.jpg" width="98%"></div><br>
+<div style="text-align:center;color:grey"><img src="/images/202102/chunjiesheying3.jpg" width="98%"></div>
 
 作者：地风
 
 <h3>4. 粉刷工</h3>
 
-<div style="text-align:center;color:grey"><img src="/images/202102/chunjiesheying4.jpg" width="98%"></div><br>
+<div style="text-align:center;color:grey"><img src="/images/202102/chunjiesheying4.jpg" width="98%"></div>
 
 作者：黑眼
 
@@ -56,7 +56,7 @@ excerpt: ""
 
 <h3>5. 过年留守三倍加班虚假宣传</h3>
 
-<div style="text-align:center;color:grey"><img src="/images/202102/chunjiesheying5.jpg" width="98%"></div><br>
+<div style="text-align:center;color:grey"><img src="/images/202102/chunjiesheying5.jpg" width="98%"></div>
 
 作者：沧桑一老农
 
@@ -64,7 +64,7 @@ excerpt: ""
 
 <h3>6. 年初一早上辛苦工作的环卫工人</h3>
 
-<div style="text-align:center;color:grey"><img src="/images/202102/chunjiesheying6.jpg" width="98%"></div><br>
+<div style="text-align:center;color:grey"><img src="/images/202102/chunjiesheying6.jpg" width="98%"></div>
 
 作者：小布
 
@@ -72,7 +72,7 @@ excerpt: ""
 
 <h3>7. 前路</h3>
 
-<div style="text-align:center;color:grey"><img src="/images/202102/chunjiesheying7.jpg" width="98%"></div><br>
+<div style="text-align:center;color:grey"><img src="/images/202102/chunjiesheying7.jpg" width="98%"></div>
 
 作者：绯色
 
@@ -80,7 +80,7 @@ excerpt: ""
 
 <h3>8. 热电厂的烟囱</h3>
 
-<div style="text-align:center;color:grey"><img src="/images/202102/chunjiesheying8.jpg" width="98%"></div><br>
+<div style="text-align:center;color:grey"><img src="/images/202102/chunjiesheying8.jpg" width="98%"></div>
 
 作者：左壬M
 
@@ -91,7 +91,7 @@ excerpt: ""
 
 <h3>9. 为生活劳动</h3>
 
-<div style="text-align:center;color:grey"><img src="/images/202102/chunjiesheying9.jpg" width="98%"></div><br>
+<div style="text-align:center;color:grey"><img src="/images/202102/chunjiesheying9.jpg" width="98%"></div>
 
 作者：隔壁王叔
 
@@ -99,7 +99,7 @@ excerpt: ""
 
 <h3>10. 我是一个老兵</h3>
 
-<div style="text-align:center;color:grey"><img src="/images/202102/chunjiesheying10.jpg" width="98%"></div><br>
+<div style="text-align:center;color:grey"><img src="/images/202102/chunjiesheying10.jpg" width="98%"></div>
 
 作者：教练
 
@@ -107,7 +107,7 @@ excerpt: ""
 
 <h3>11. 希望</h3>
 
-<div style="text-align:center;color:grey"><img src="/images/202102/chunjiesheying11.jpg" width="98%"></div><br>
+<div style="text-align:center;color:grey"><img src="/images/202102/chunjiesheying11.jpg" width="98%"></div>
 
 作者：自由之翼
 
@@ -115,7 +115,7 @@ excerpt: ""
 
 <h3>12. 蜘蛛人</h3>
 
-<div style="text-align:center;color:grey"><img src="/images/202102/chunjiesheying12.jpg" width="98%"></div><br>
+<div style="text-align:center;color:grey"><img src="/images/202102/chunjiesheying12.jpg" width="98%"></div>
 
 作者：路石
 
@@ -123,7 +123,7 @@ excerpt: ""
 
 <h3>13. 厨师</h3>
 
-<div style="text-align:center;color:grey"><img src="/images/202102/chunjiesheying13.jpg" width="98%"></div><br>
+<div style="text-align:center;color:grey"><img src="/images/202102/chunjiesheying13.jpg" width="98%"></div>
 
 作者：小虎
 
@@ -134,7 +134,7 @@ excerpt: ""
 
 <h3>14. 灯火人间</h3>
 
-<div style="text-align:center;color:grey"><img src="/images/202102/chunjiesheying14.jpg" width="98%"></div><br>
+<div style="text-align:center;color:grey"><img src="/images/202102/chunjiesheying14.jpg" width="98%"></div>
 
 作者：云峥
 
@@ -143,7 +143,7 @@ excerpt: ""
 
 <h3>15. 狗狗望湖兴叹</h3>
 
-<div style="text-align:center;color:grey"><img src="/images/202102/chunjiesheying15.jpg" width="98%"></div><br>
+<div style="text-align:center;color:grey"><img src="/images/202102/chunjiesheying15.jpg" width="98%"></div>
 
 作者：芃芃
 
@@ -151,7 +151,7 @@ excerpt: ""
 
 <h3>16. 清晨、早餐</h3>
 
-<div style="text-align:center;color:grey"><img src="/images/202102/chunjiesheying16.jpg" width="98%"></div><br>
+<div style="text-align:center;color:grey"><img src="/images/202102/chunjiesheying16.jpg" width="98%"></div>
 
 作者：希望、阳光、未来
 
@@ -159,7 +159,7 @@ excerpt: ""
 
 <h3>17. 韶山行</h3>
 
-<div style="text-align:center;color:grey"><img src="/images/202102/chunjiesheying17.jpg" width="98%"></div><br>
+<div style="text-align:center;color:grey"><img src="/images/202102/chunjiesheying17.jpg" width="98%"></div>
 
 作者：北斗星
 
@@ -167,7 +167,7 @@ excerpt: ""
 
 <h3>18. 土房子</h3>
 
-<div style="text-align:center;color:grey"><img src="/images/202102/chunjiesheying18.jpg" width="98%"></div><br>
+<div style="text-align:center;color:grey"><img src="/images/202102/chunjiesheying18.jpg" width="98%"></div>
 
 作者：南方记忆
 
@@ -175,7 +175,7 @@ excerpt: ""
 
 <h3>19. 在床上过年</h3>
 
-<div style="text-align:center;color:grey"><img src="/images/202102/chunjiesheying19.jpg" width="98%"></div><br>
+<div style="text-align:center;color:grey"><img src="/images/202102/chunjiesheying19.jpg" width="98%"></div>
 
 作者：一条汪
 
@@ -183,7 +183,7 @@ excerpt: ""
 
 <h3>20. 少数民族女工</h3>
 
-<div style="text-align:center;color:grey"><img src="/images/202102/chunjiesheying20.jpg" width="98%"></div><br>
+<div style="text-align:center;color:grey"><img src="/images/202102/chunjiesheying20.jpg" width="98%"></div>
 
 作者：野菊花
 
