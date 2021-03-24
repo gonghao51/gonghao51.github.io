@@ -32,7 +32,7 @@ excerpt: "压榨骑手血汗的丑恶资本平台总有一天会被人推倒，�
 
 当然，咱们工人也不是吃素的！像盟主这样的热心工友，积极团结整个北京市的骑手，善用媒体积极发声，施加舆论压力，就足以迫使饿了么出面回应，可见工人团结的力量！团结组织的工作可以从小做起，把51的文章和盟主发声转发给你的工友，创建一个工友微信群，揭露资本家剥削工人的罪恶，马上就可以做起来。只要工人团结在一起，就能向横行霸道的资本说不！　　
 
-<div style="text-align:center;color:grey"><img src="/images/202102/elemeqishou2.jpg" width="90%"><br></div><br>
+<div style="text-align:center;color:grey"><img src="/images/202102/elemeqishou4.jpg" width="90%"><br></div><br>
 
 
 *附：饿了么骑手自焚事件*
