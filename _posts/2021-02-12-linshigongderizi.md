@@ -4,7 +4,7 @@ title: "【工友之声】我做临时工的日子"
 date: 2021-02-12
 tags: 
 image:
-  teaser: /202102/sheyingbazhao0.jpg
+  teaser: /202102/linshigongderizi5.jpg
 excerpt: ""
 ---
 
