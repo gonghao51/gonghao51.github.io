@@ -2,7 +2,7 @@
 template: post
 title: "【每日怪事】惊呆了！牛逼哄哄的领导红包，没领就要倒霉？"
 date: 2021-02-16
-tags: 
+tags: guaishi
 image:
   teaser: /202102/lingdaohongbao0.jpg
 excerpt: "万万没想到......"
