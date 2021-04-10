@@ -1,6 +1,6 @@
 ---
 template: post
-title: 声援被捕外卖骑手工人：有缘江湖再见！
+title: 【工友来稿】声援被捕外卖骑手工人：有缘江湖再见！
 date: 2021-04-10
 tags: 
 image:
