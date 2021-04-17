@@ -5,7 +5,7 @@ date: 2021-04-17
 tags: gushi
 image:
   teaser: /202104/guantou2.jpg
-excerpt: ""
+excerpt: "“真正的人应该是这样的。”那个活泼的罐头顿了顿，它又看了看那些两腿走动的“机器”……"
 ---
 
 *作者：城市和乡村*
